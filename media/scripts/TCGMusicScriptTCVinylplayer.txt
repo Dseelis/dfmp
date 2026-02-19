@@ -1,0 +1,111 @@
+module Tsarcraft
+{
+	imports
+	{
+		Base
+	}
+/********************Generated Music Carriers********************/
+
+	model VinylBluesForMrTModel
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BluesForMrT,
+		scale	=	0.0012,
+	}
+
+	item VinylBluesForMrT
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Blues For Mr T,
+		WorldStaticModel = Tsarcraft.VinylBluesForMrTModel,
+	}
+
+	model VinylBudMeetsBobModel
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BudMeetsBob,
+		scale	=	0.0012,
+	}
+
+	item VinylBudMeetsBob
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Bud Meets Bob,
+		WorldStaticModel = Tsarcraft.VinylBudMeetsBobModel,
+	}
+
+	model VinylCrawlingLinkinParkModel
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/CrawlingLinkinPark,
+		scale	=	0.0012,
+	}
+
+	item VinylCrawlingLinkinPark
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Crawling - Linkin Park,
+		WorldStaticModel = Tsarcraft.VinylCrawlingLinkinParkModel,
+	}
+
+	model VinylIntheEndLinkinParkModel
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/IntheEndLinkinPark,
+		scale	=	0.0012,
+	}
+
+	item VinylIntheEndLinkinPark
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl In the End - Linkin Park,
+		WorldStaticModel = Tsarcraft.VinylIntheEndLinkinParkModel,
+	}
+
+	model VinylMyDecemberLinkinParkModel
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/MyDecemberLinkinPark,
+		scale	=	0.0012,
+	}
+
+	item VinylMyDecemberLinkinPark
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl My December - Linkin Park,
+		WorldStaticModel = Tsarcraft.VinylMyDecemberLinkinParkModel,
+	}
+
+	model VinylPointsofAuthorityLinkinParkModel
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/PointsofAuthorityLinkinPark,
+		scale	=	0.0012,
+	}
+
+	item VinylPointsofAuthorityLinkinPark
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Points of Authority - Linkin Park,
+		WorldStaticModel = Tsarcraft.VinylPointsofAuthorityLinkinParkModel,
+	}
+
+}

@@ -1,0 +1,63 @@
+module Tsarcraft
+{
+	sound VinylBluesForMrT
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Blues For Mr T.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBudMeetsBob
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Bud Meets Bob.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylCrawlingLinkinPark
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Crawling - Linkin Park.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylIntheEndLinkinPark
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/In the End - Linkin Park.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylMyDecemberLinkinPark
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/My December - Linkin Park.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylPointsofAuthorityLinkinPark
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Points of Authority - Linkin Park.ogg,
+			distanceMax = 75,
+		}
+	}
+}

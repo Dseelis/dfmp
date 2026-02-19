@@ -1,0 +1,1819 @@
+module Tsarcraft
+{
+	imports
+	{
+		Base
+	}
+/********************Generated Music Carriers********************/
+
+	item CassetteArthurPirozhkovChica
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Arthur Pirozhkov - Chica,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteArthurPirozhkovJazvezda!
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Arthur Pirozhkov - Ja - zvezda!,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteArthurPirozhkovJaneAndrey
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Arthur Pirozhkov - Ja ne Andrey,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteArthurPirozhkovKakCelentano
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Arthur Pirozhkov - KakCelentano,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteBakaMitai
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Baka Mitai,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteBanditRadioSTALKEROST
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Bandit Radio - S.T.A.L.K.E.R. OST,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteBloodyStream
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Bloody Stream,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteBoomBoomBoomBoom
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Boom Boom Boom Boom,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteBunkerBluesMETROOST
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Bunker Blues - METRO OST,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item Cassetteburningdesires
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette burning desires,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteCelldwellerfeatStylesOfBeyondShapeshifter
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Celldweller feat. Styles Of Beyond - Shapeshifter,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item Cassettecomealive
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette come alive,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteCrossingField
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Crossing Field,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteDjoEndofBeginning
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Djo-End-of-Beginning,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteDoraDoradura
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Dora Doradura,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteDororo
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Dororo,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteDronXDPoslednijBloudzhobMORGENSHTERNPoslednyayaLyubovGAYREMIXSkySoundcc
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette DronXD_-_Poslednij_Bloudzhob_MORGENSHTERN_-_Poslednyaya_Lyubov_GAY_REMIX__SkySound.cc_,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteEvangelionOSTFlyMetotheMoon
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Evangelion OST - Fly Me to the Moon,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteFilmy(Filmy)byMolchatDoma
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Filmy (Filmy) by Molchat Doma,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item Cassettefishingvillagerust
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette fishing_village_rust,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteforestdumpKlanovayazhizn(SkySoundcc)
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette forestdump_-_Klanovaya_zhizn_(SkySound.cc),
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteFukkireta
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Fukkireta,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteGunsnRoses
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Guns n Roses,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteGurrenLagannOP1
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Gurren Lagann - OP1,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteHaiYo
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Hai Yo,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteHelloMyWorld
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Hello My World,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item Cassetteirisout
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette iris-out,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteJawnyHoneypie
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Jawny - Honeypie,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteKenshiYonezuKICKBACK
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Kenshi Yonezu - KICK BACK,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteKessokubandDistortion!!
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Kessoku band - Distortion!!,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteKessokubandFlashbacker
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Kessoku band - Flashbacker,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteKessokubandGuitarLonelinessandBluePlanet
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Kessoku band - Guitar Loneliness and Blue Planet,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteKessokubandHitoribocchiTokyo
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Kessoku band - Hitoribocchi Tokyo,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteKessokubandIcan'tsingalovesong
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Kessoku band - I can't sing a love song,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteKessokubandIwon'tforget
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Kessoku band - I won't forget,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteKessokubandIfIcouldbecomeaconstellation
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Kessoku band - If I could become a constellation,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteKessokubandKarakara
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Kessoku band - Karakara,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteKessokubandRollingrockmorningfallsonyou
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Kessoku band - Rolling rock morning falls on you,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteKessokubandSecretbase
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Kessoku band - Secret base,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteKessokubandSeisyunComplex
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Kessoku band - Seisyun Complex,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteKessokubandThatband
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Kessoku band - That band,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteKessokubandThelittlesea
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Kessoku band - The little sea,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteKessokubandWhatiswrongwith
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Kessoku band - What is wrong with,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteKletka(Kletka)byMolchatDoma
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Kletka (Kletka) by Molchat Doma,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteKommSusserTod
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Komm Susser Tod,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteKommersanty(Merchants)byMolchatDoma
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Kommersanty (Merchants) by Molchat Doma,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item Cassettekonecsolnechnyhdnejfinalanebudet
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette konec-solnechnyh-dnej - finala-ne-budet,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteKSBmuzicDEP
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette KSB_muzic - DEP,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteKSBmuzicWYAvytacshutebyasodna
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette KSB_muzic - W YA vytacshu tebya so dna,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteKuusouMesorogiwi
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Kuusou Mesorogiwi,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteLastChristmas
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Last Christmas,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteLidaSeregaPiratchsv
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Lida_Serega_Pirat_-_chsv,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteMarkBernesTemnayanoch
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Mark Bernes - Temnaya noch,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteMellSher&5opkaLongAylend
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette MellSher & 5opka - Long Aylend,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteModernTalkingCheriCheriLady
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Modern Talking - Cheri Cheri Lady,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteMolchatDomaEmalirovannoesudno
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Molchat Doma - Emalirovannoe sudno,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item Cassettemolchatdomakletka
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette molchat doma - kletka,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassettemzlffSeregaPiratYAneboyusoshibatsya
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette mzlff Serega Pirat - YA ne boyus oshibatsya,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteNaDne(Atthebottom)byMolchatDoma
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Na Dne (At the bottom) by Molchat Doma,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteNightcoreSweetLittleBumblebee
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Nightcore - Sweet_Little_Bumblebee,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteNirvanaDrainYou
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Nirvana - Drain You,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassettePeaceSign
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Peace Sign,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassettePersona3ReloadFullMoonFullLife
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Persona 3 Reload  - Full Moon Full Life,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassettePersona3ReloadUnavoidableBattle
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Persona 3 Reload  - Unavoidable Battle,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassettePersona3ReloadWhenTheMoonsReachingOutStars
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Persona 3 Reload  - When The Moon s Reaching Out Stars,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassettePersona3ReloadChangingSeasons
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Persona 3 Reload - Changing Seasons,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item Cassettepivzavod2077Fotografiruyupivas(SkySoundcc)
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette pivzavod2077_-_Fotografiruyu_pivas_(SkySound.cc),
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassettePlayArrowChipiChipiChapaChapa
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette PlayArrow - Chipi-Chipi-Chapa-Chapa,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassettePotapiNastyaCHumachechayavesna
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Potap i Nastya - CHumachechaya vesna,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassettePotapiNastyaKamenskihMyotmenyaemkonetssveta
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Potap i Nastya Kamenskih - My otmenyaem konets sveta,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassettePrognoz(Forecast)byMolchatDoma
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Prognoz (Forecast) by Molchat Doma,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteRadioheadNoSuprises
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Radiohead - No Suprises,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteRadioheadElectioneering
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Radiohead-Electioneering,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteRadioheadExitMusicForaFilm
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Radiohead-Exit-Music-_For-a-Film_,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteRenaiCirculation
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Renai Circulation,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteReol+nqrse
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Reol+nqrse,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteRoaroftheJungleDragon
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Roar-of-the-Jungle-Dragon,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteRockIAmRock
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Rock - I Am Rock,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteRunninginThe90s
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Running in The 90s,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteSakuraIkimonoGakari
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Sakura Ikimono Gakari,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteSatiKazanovaDoRassveta
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Sati Kazanova - Do Rassveta,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteSeishunButaYarouFukashiginoCarte
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Seishun Buta Yarou - Fukashigi no Carte,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteSektorGaza30let
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Sektor Gaza - 30 let,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteSektorGazaBomzh
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Sektor Gaza - Bomzh,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteSektorGazaDemobilizatsiya
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Sektor Gaza - Demobilizatsiya,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteSektorGazaLirika
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Sektor Gaza - Lirika,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteSektorGazaPoradomoy
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Sektor Gaza - Pora domoy,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteSeregaPirat911
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Serega Pirat - 911,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteSeregaPiratAti
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Serega Pirat - A ti,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteSeregaPiratAMFP
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Serega Pirat - AM FP,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteSeregaPiratAnimeOpening
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Serega Pirat - Anime Opening,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteSeregaPiratApelsin
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Serega Pirat - Apelsin,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteSeregaPiratDedoded
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Serega Pirat - Dedoded,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteSeregaPiratdengimenyayut
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Serega Pirat - dengimenyayut,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteSeregaPiratGeroin
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Serega Pirat - Geroin,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteSeregaPiratGimndahaka
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Serega Pirat - Gimn dahaka,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteSeregaPiratGimn
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Serega Pirat - Gimn,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteSeregaPiratHeytery
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Serega Pirat - Heytery,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteSeregaPiratIzvinisegodnyaprazdnik
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Serega Pirat - Izvini segodnya prazdnik,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteSeregaPiratKachalka
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Serega Pirat - Kachalka,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteSeregaPiratKartiny
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Serega Pirat - Kartiny,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteSeregaPiratMasha
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Serega Pirat - Masha,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteSeregaPiratMoybayk
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Serega Pirat - Moy bayk,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteSeregaPiratMoyslark
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Serega Pirat - Moy slark,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteSeregaPiratMoytopor
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Serega Pirat - Moy topor,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteSeregaPiratNyizvinite
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Serega Pirat - N...y izvinite,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteSeregaPiratNalune
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Serega Pirat - Na lune,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteSeregaPiratNataliya
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Serega Pirat - Nataliya,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteSeregaPiratNovogodnyaya
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Serega Pirat - Novogodnyaya,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteSeregaPiratNugdemoyanoga
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Serega Pirat - Nu gde moya noga,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteSeregaPiratNuichtochtoyavor
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Serega Pirat - Nu i chto chto ya vor,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteSeregaPiratPesnyavpodderzhkuafroamerikantsev
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Serega Pirat - Pesnya v podderzhku afroamerikantsev,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteSeregaPiratPesnyavpodderzhkukitaytsev
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Serega Pirat - Pesnya v podderzhku kitaytsev,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteSeregaPiratPochemutyeshchenefanat
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Serega Pirat - Pochemu ty eshche ne fanat,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteSeregaPiratRasselkrou
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Serega Pirat - Rassel krou,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteSeregaPiratTilt
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Serega Pirat - Tilt,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteSeregaPiratTpnaame
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Serega Pirat - Tp na ame,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteSeregaPiratVEtoyTrave
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Serega Pirat - V Etoy Trave,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteSeregaPiratVaybmen
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Serega Pirat - Vaybmen,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteSeregaPiratVnutrimenyavoyna
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Serega Pirat - Vnutri menya voyna,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteSeregaPiratWorldofDota
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Serega Pirat - World of Dota,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteSeregaPiratYaetoya
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Serega Pirat - Ya eto ya,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteSeregaPiratYApodnimayusvoyugolovuvverh
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Serega Pirat - YA podnimayu svoyu golovu vverh,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteSeregaPiratYAshizoid
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Serega Pirat - YA shizoid,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteSeregaPiratYAsvoruyubabki
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Serega Pirat - YA svoruyu babki,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteSeregaPiratYavzletayuvverh
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Serega Pirat - Ya vzletayu vverh,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteSeregaPiratBarikaderkakzheonsilen
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Serega Pirat Barikader - kak zhe on silen,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteSeregaPiratKijinKartyni
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Serega Pirat Kijin - Kartyni,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteSeregaPiratLidaCHSV
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Serega Pirat Lida - CHSV,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteSEREGAPIRATfeatqeqoqeqZombiapokalipsis77066267
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette SEREGA_PIRAT_feat_qeqoqeq_-_Zombi_apokalipsis_77066267,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteSpongeBobBytovuhaOST1
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Sponge Bob - Bytovuha OST 1,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteSpongeBobBytovuhaOST2
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Sponge Bob - Bytovuha OST 2,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteSpongeBobKrastiKrabsOST1
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Sponge Bob - Krasti Krabs OST 1,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteSpongeBobKrastiKrabsOST2
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Sponge Bob - Krasti Krabs OST 2,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteSpongeBobPogonya
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Sponge Bob - Pogonya,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteSpongeBobTitry
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Sponge Bob - Titry,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteSpongeBobZastavka
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Sponge Bob - Zastavka,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item Cassettessshhhiiittt!vosem
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette ssshhhiiittt! - vosem,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteStep
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Step,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteStormaeAlenaDast
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Stormae - Alena Dast,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteStressedGlob
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Stressed Glob,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteStylesofBeyondNineThou(SuperstarsRemix)
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Styles of Beyond - Nine Thou (Superstars Remix),
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteSudno(Sudno)byMolchatDoma
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Sudno (Sudno) by Molchat Doma,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteSurfCurseFreaks
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Surf Curse - Freaks,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteTank
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Tank,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteTantsevat(Tancevat)byMolchatDoma
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Tantsevat (Tancevat) by Molchat Doma,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteTellMeWhy
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Tell Me Why,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteTetradsmertiOP1
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Tetrad smerti - OP1,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteTetradsmertiPianino
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Tetrad smerti - Pianino,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteTheDay
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette The Day,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteThePeggiesKiminoSei
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette The Peggies - Kimi no Sei,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteTincupLost
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Tincup - Lost,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteTinyLight
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Tiny Light,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteToska(Toska)byMolchatDoma
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Toska (Toska) by Molchat Doma,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteTriDnyaVozhdyaErnestMerkelOtsosat76567252
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Tri_Dnya_Vozhdya_Ernest_Merkel_-_Otsosat_76567252,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteUma2rmanKazhetsya
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Uma2rman - Kazhetsya,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteUma2rmanPapinydochki
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Uma2rman - Papiny dochki,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteUmamusumeBokuranoburubadodeizu
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Umamusume - Bokura no burubadodeizu,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteUmamusumeEgaonoTreasureBeyondTheFuture
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Umamusume - Egao no Treasure -Beyond The Future-,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteUmamusumeUNLIMITEDIMPACT
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Umamusume - UNLIMITED IMPACT,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteUmamusume2ED
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Umamusume 2 ED,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteUniversalCollapse
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Universal-Collapse,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteValentinStrykaloNasheleto
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Valentin-Strykalo-Nashe-leto,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteValentinStrykaloYAbyuzhenshchinidetey
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Valentin-Strykalo-YA-byu-zhenshchin-i-detey_,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteViewtifulDays
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Viewtiful Days,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteVirusPoproshutebya
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Virus - Poproshu tebya,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteVisokosnyygodTihiyogonek
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Visokosnyy god - Tihiy ogonek,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteVolheyMilomaterishsya
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Volhey-Milo-materishsya,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteVolny(Volny)byMolchatDoma
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Volny (Volny) by Molchat Doma,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteWonderfulWonderWorld
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Wonderful Wonder World,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteYOASOBIIDOL
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette YOASOBI - IDOL,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteYokoTakahashiACruelAngel'sThesis
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Yoko Takahashi - A Cruel Angel's Thesis,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item Cassetteyuanse
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette yuanse,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteYUliyaSavichevaEslivserdtsezhivetlyubov
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette YUliya Savicheva - Esli v serdtse zhivet lyubov,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteYumenoTsuzuki
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Yume no Tsuzuki,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteMayzenbergvitalyuobmanul
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Mayzenberg-vitalyu-obmanul,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteSeregaPiratMutantyizkanalizatsii
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Serega-Pirat-Mutanty-iz-kanalizatsii,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteSindromVosmiklassnikaKerosinpomoimvenam
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Sindrom Vosmiklassnika - Kerosin po moim venam,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteSTINTEtonemoyvayb
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette STINT-Eto-ne-moy-vayb,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteTriDnyaDozhdyaOtpuskay
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Tri-Dnya-Dozhdya-Otpuskay,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteYArcheSolntsaNeHochu
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette YArche Solntsa Ne Hochu,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+}

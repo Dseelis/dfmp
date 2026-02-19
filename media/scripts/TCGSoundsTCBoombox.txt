@@ -1,0 +1,1353 @@
+module Tsarcraft
+{
+	sound CassetteArthurPirozhkovChica
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Arthur Pirozhkov - Chica.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteArthurPirozhkovJazvezda!
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Arthur Pirozhkov - Ja - zvezda!.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteArthurPirozhkovJaneAndrey
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Arthur Pirozhkov - Ja ne Andrey.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteArthurPirozhkovKakCelentano
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Arthur Pirozhkov - KakCelentano.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBanditRadioSTALKEROST
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bandit Radio - S.T.A.L.K.E.R. OST.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBunkerBluesMETROOST
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bunker Blues - METRO OST.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound Cassetteburningdesires
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/burning desires.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteCelldwellerfeatStylesOfBeyondShapeshifter
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Celldweller feat. Styles Of Beyond - Shapeshifter.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound Cassettecomealive
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/come alive.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDoraDoradura
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Dora Doradura.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteEvangelionOSTFlyMetotheMoon
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Evangelion OST - Fly Me to the Moon.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteFilmy(Filmy)byMolchatDoma
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Filmy (Filmy) by Molchat Doma.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteGurrenLagannOP1
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Gurren Lagann - OP1.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound Cassetteirisout
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/iris-out.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKenshiYonezuKICKBACK
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kenshi Yonezu - KICK BACK.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKessokubandDistortion!!
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kessoku band - Distortion!!.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKessokubandFlashbacker
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kessoku band - Flashbacker.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKessokubandGuitarLonelinessandBluePlanet
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kessoku band - Guitar Loneliness and Blue Planet.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKessokubandHitoribocchiTokyo
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kessoku band - Hitoribocchi Tokyo.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKessokubandIcan'tsingalovesong
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kessoku band - I can't sing a love song.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKessokubandIwon'tforget
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kessoku band - I won't forget.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKessokubandIfIcouldbecomeaconstellation
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kessoku band - If I could become a constellation.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKessokubandKarakara
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kessoku band - Karakara.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKessokubandRollingrockmorningfallsonyou
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kessoku band - Rolling rock morning falls on you.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKessokubandSecretbase
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kessoku band - Secret base.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKessokubandSeisyunComplex
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kessoku band - Seisyun Complex.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKessokubandThatband
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kessoku band - That band.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKessokubandThelittlesea
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kessoku band - The little sea.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKessokubandWhatiswrongwith
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kessoku band - What is wrong with.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKletka(Kletka)byMolchatDoma
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kletka (Kletka) by Molchat Doma.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKommersanty(Merchants)byMolchatDoma
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kommersanty (Merchants) by Molchat Doma.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLidaSeregaPiratchsv
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Lida_Serega_Pirat_-_chsv.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMarkBernesTemnayanoch
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Mark Bernes - Temnaya noch.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteModernTalkingCheriCheriLady
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Modern Talking - Cheri Cheri Lady.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMolchatDomaEmalirovannoesudno
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Molchat Doma - Emalirovannoe sudno.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound Cassettemolchatdomakletka
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/molchat doma - kletka.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettemzlffSeregaPiratYAneboyusoshibatsya
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/mzlff Serega Pirat - YA ne boyus oshibatsya.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteNaDne(Atthebottom)byMolchatDoma
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Na Dne (At the bottom) by Molchat Doma.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteNirvanaDrainYou
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Nirvana - Drain You.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePersona3ReloadFullMoonFullLife
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Persona 3 Reload  - Full Moon Full Life.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePersona3ReloadUnavoidableBattle
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Persona 3 Reload  - Unavoidable Battle.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePersona3ReloadWhenTheMoonsReachingOutStars
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Persona 3 Reload  - When The Moon s Reaching Out Stars.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePersona3ReloadChangingSeasons
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Persona 3 Reload - Changing Seasons.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePlayArrowChipiChipiChapaChapa
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/PlayArrow - Chipi-Chipi-Chapa-Chapa.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePotapiNastyaCHumachechayavesna
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Potap i Nastya - CHumachechaya vesna.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePotapiNastyaKamenskihMyotmenyaemkonetssveta
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Potap i Nastya Kamenskih - My otmenyaem konets sveta.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePrognoz(Forecast)byMolchatDoma
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Prognoz (Forecast) by Molchat Doma.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRadioheadNoSuprises
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Radiohead - No Suprises.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRoaroftheJungleDragon
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Roar-of-the-Jungle-Dragon.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRockIAmRock
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Rock - I Am Rock.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSatiKazanovaDoRassveta
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sati Kazanova - Do Rassveta.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeishunButaYarouFukashiginoCarte
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Seishun Buta Yarou - Fukashigi no Carte.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSektorGaza30let
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sektor Gaza - 30 let.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSektorGazaBomzh
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sektor Gaza - Bomzh.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSektorGazaDemobilizatsiya
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sektor Gaza - Demobilizatsiya.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSektorGazaLirika
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sektor Gaza - Lirika.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSektorGazaPoradomoy
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sektor Gaza - Pora domoy.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPirat911
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - 911.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratAti
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - A ti.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratAMFP
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - AM FP.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratAnimeOpening
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Anime Opening.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratApelsin
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Apelsin.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratDedoded
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Dedoded.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratdengimenyayut
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - dengimenyayut.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratGeroin
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Geroin.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratGimndahaka
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Gimn dahaka.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratGimn
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Gimn.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratHeytery
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Heytery.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratIzvinisegodnyaprazdnik
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Izvini segodnya prazdnik.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratKachalka
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Kachalka.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratKartiny
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Kartiny.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratMasha
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Masha.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratMoybayk
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Moy bayk.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratMoyslark
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Moy slark.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratMoytopor
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Moy topor.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratNyizvinite
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - N...y izvinite.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratNalune
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Na lune.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratNataliya
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Nataliya.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratNovogodnyaya
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Novogodnyaya.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratNugdemoyanoga
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Nu gde moya noga.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratNuichtochtoyavor
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Nu i chto chto ya vor.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratPesnyavpodderzhkuafroamerikantsev
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Pesnya v podderzhku afroamerikantsev.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratPesnyavpodderzhkukitaytsev
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Pesnya v podderzhku kitaytsev.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratPochemutyeshchenefanat
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Pochemu ty eshche ne fanat.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratRasselkrou
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Rassel krou.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratTilt
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Tilt.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratTpnaame
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Tp na ame.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratVEtoyTrave
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - V Etoy Trave.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratVaybmen
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Vaybmen.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratVnutrimenyavoyna
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Vnutri menya voyna.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratWorldofDota
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - World of Dota.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratYaetoya
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Ya eto ya.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratYApodnimayusvoyugolovuvverh
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - YA podnimayu svoyu golovu vverh.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratYAshizoid
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - YA shizoid.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratYAsvoruyubabki
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - YA svoruyu babki.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratYavzletayuvverh
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat - Ya vzletayu vverh.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratBarikaderkakzheonsilen
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat Barikader - kak zhe on silen.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratKijinKartyni
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat Kijin - Kartyni.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratLidaCHSV
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega Pirat Lida - CHSV.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSEREGAPIRATfeatqeqoqeqZombiapokalipsis77066267
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/SEREGA_PIRAT_feat_qeqoqeq_-_Zombi_apokalipsis_77066267.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSpongeBobBytovuhaOST1
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sponge Bob - Bytovuha OST 1.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSpongeBobBytovuhaOST2
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sponge Bob - Bytovuha OST 2.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSpongeBobKrastiKrabsOST1
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sponge Bob - Krasti Krabs OST 1.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSpongeBobKrastiKrabsOST2
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sponge Bob - Krasti Krabs OST 2.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSpongeBobPogonya
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sponge Bob - Pogonya.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSpongeBobTitry
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sponge Bob - Titry.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSpongeBobZastavka
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sponge Bob - Zastavka.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound Cassettessshhhiiittt!vosem
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/ssshhhiiittt! - vosem.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteStormaeAlenaDast
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Stormae - Alena Dast.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteStylesofBeyondNineThou(SuperstarsRemix)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Styles of Beyond - Nine Thou (Superstars Remix).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSudno(Sudno)byMolchatDoma
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sudno (Sudno) by Molchat Doma.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSurfCurseFreaks
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Surf Curse - Freaks.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTantsevat(Tancevat)byMolchatDoma
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Tantsevat (Tancevat) by Molchat Doma.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTetradsmertiOP1
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Tetrad smerti - OP1.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTetradsmertiPianino
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Tetrad smerti - Pianino.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteThePeggiesKiminoSei
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Peggies - Kimi no Sei.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTincupLost
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Tincup - Lost.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteToska(Toska)byMolchatDoma
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Toska (Toska) by Molchat Doma.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTriDnyaVozhdyaErnestMerkelOtsosat76567252
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Tri_Dnya_Vozhdya_Ernest_Merkel_-_Otsosat_76567252.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteUma2rmanKazhetsya
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Uma2rman - Kazhetsya.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteUma2rmanPapinydochki
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Uma2rman - Papiny dochki.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteUmamusumeBokuranoburubadodeizu
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Umamusume - Bokura no burubadodeizu.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteUmamusumeEgaonoTreasureBeyondTheFuture
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Umamusume - Egao no Treasure -Beyond The Future-.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteUmamusumeUNLIMITEDIMPACT
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Umamusume - UNLIMITED IMPACT.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteUmamusume2ED
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Umamusume 2 ED.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteUniversalCollapse
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Universal-Collapse.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteValentinStrykaloNasheleto
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Valentin-Strykalo-Nashe-leto.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteValentinStrykaloYAbyuzhenshchinidetey
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Valentin-Strykalo-YA-byu-zhenshchin-i-detey_.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteVirusPoproshutebya
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Virus - Poproshu tebya.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteVisokosnyygodTihiyogonek
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Visokosnyy god - Tihiy ogonek.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteVolny(Volny)byMolchatDoma
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Volny (Volny) by Molchat Doma.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteYOASOBIIDOL
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/YOASOBI - IDOL.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteYokoTakahashiACruelAngel'sThesis
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Yoko Takahashi - A Cruel Angel's Thesis.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound Cassetteyuanse
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/yuanse.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteYUliyaSavichevaEslivserdtsezhivetlyubov
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/YUliya Savicheva - Esli v serdtse zhivet lyubov.ogg,
+			distanceMax = 75,
+		}
+	}
+}
