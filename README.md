@@ -179,5 +179,9 @@ TRACK LIST
 - YOASOBI - IDOL
 - Yoko Takahashi - A Cruel Angel's Thesis
 - yuanse
-YUliya Savicheva - Esli v serdtse zhivet lyubov
-Yume no Tsuzuki
+- YUliya Savicheva - Esli v serdtse zhivet lyubov
+- Yume no Tsuzuki
+- Nervi - to chto mne nuzno
+- Nervi - Poteri
+- Smetana Band - pit plakat
+- Smetana band - kogda moya devushka kurit
