@@ -15,10 +15,10 @@ module Tsarcraft
 
 	item VinylBluesForMrT
 	{
-		ItemType		=	base:normal,
+		Type			=	Normal,
 		DisplayCategory = Entertainment,
 		Weight			=	0.02,
-		Icon			=	TCVinylrecord3,
+		Icon			=	TCVinylrecord7,
 		DisplayName		=	Vinyl Blues For Mr T,
 		WorldStaticModel = Tsarcraft.VinylBluesForMrTModel,
 	}
@@ -32,7 +32,7 @@ module Tsarcraft
 
 	item VinylBudMeetsBob
 	{
-		ItemType		=	base:normal,
+		Type			=	Normal,
 		DisplayCategory = Entertainment,
 		Weight			=	0.02,
 		Icon			=	TCVinylrecord6,
@@ -49,10 +49,10 @@ module Tsarcraft
 
 	item VinylCrawlingLinkinPark
 	{
-		ItemType		=	base:normal,
+		Type			=	Normal,
 		DisplayCategory = Entertainment,
 		Weight			=	0.02,
-		Icon			=	TCVinylrecord4,
+		Icon			=	TCVinylrecord3,
 		DisplayName		=	Vinyl Crawling - Linkin Park,
 		WorldStaticModel = Tsarcraft.VinylCrawlingLinkinParkModel,
 	}
@@ -66,7 +66,7 @@ module Tsarcraft
 
 	item VinylIntheEndLinkinPark
 	{
-		ItemType		=	base:normal,
+		Type			=	Normal,
 		DisplayCategory = Entertainment,
 		Weight			=	0.02,
 		Icon			=	TCVinylrecord11,
@@ -83,10 +83,10 @@ module Tsarcraft
 
 	item VinylMyDecemberLinkinPark
 	{
-		ItemType		=	base:normal,
+		Type			=	Normal,
 		DisplayCategory = Entertainment,
 		Weight			=	0.02,
-		Icon			=	TCVinylrecord7,
+		Icon			=	TCVinylrecord8,
 		DisplayName		=	Vinyl My December - Linkin Park,
 		WorldStaticModel = Tsarcraft.VinylMyDecemberLinkinParkModel,
 	}
@@ -100,10 +100,10 @@ module Tsarcraft
 
 	item VinylPointsofAuthorityLinkinPark
 	{
-		ItemType		=	base:normal,
+		Type			=	Normal,
 		DisplayCategory = Entertainment,
 		Weight			=	0.02,
-		Icon			=	TCVinylrecord8,
+		Icon			=	TCVinylrecord10,
 		DisplayName		=	Vinyl Points of Authority - Linkin Park,
 		WorldStaticModel = Tsarcraft.VinylPointsofAuthorityLinkinParkModel,
 	}

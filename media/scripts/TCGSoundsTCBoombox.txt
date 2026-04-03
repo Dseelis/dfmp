@@ -40,6 +40,16 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteBakaMitai
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Baka Mitai.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteBanditRadioSTALKEROST
 	{
 		category = True Music,
@@ -47,6 +57,26 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/Bandit Radio - S.T.A.L.K.E.R. OST.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBloodyStream
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bloody Stream.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBoomBoomBoomBoom
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Boom Boom Boom Boom.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -90,6 +120,26 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteCrossingField
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Crossing Field.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDjoEndofBeginning
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Djo-End-of-Beginning.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteDoraDoradura
 	{
 		category = True Music,
@@ -97,6 +147,26 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/Dora Doradura.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDororo
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Dororo.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDronXDPoslednijBloudzhobMORGENSHTERNPoslednyayaLyubovGAYREMIXSkySoundcc
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/DronXD_-_Poslednij_Bloudzhob_MORGENSHTERN_-_Poslednyaya_Lyubov_GAY_REMIX__SkySound.cc_.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -120,6 +190,46 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound Cassettefishingvillagerust
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/fishing_village_rust.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteforestdumpKlanovayazhizn(SkySoundcc)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/forestdump_-_Klanovaya_zhizn_(SkySound.cc).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteFukkireta
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Fukkireta.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteGunsnRoses
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Guns n Roses.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteGurrenLagannOP1
 	{
 		category = True Music,
@@ -130,6 +240,26 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteHaiYo
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Hai Yo.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteHelloMyWorld
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Hello My World.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound Cassetteirisout
 	{
 		category = True Music,
@@ -137,6 +267,16 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/iris-out.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteJawnyHoneypie
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Jawny - Honeypie.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -300,6 +440,16 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteKommSusserTod
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Komm Susser Tod.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteKommersanty(Merchants)byMolchatDoma
 	{
 		category = True Music,
@@ -307,6 +457,56 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/Kommersanty (Merchants) by Molchat Doma.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound Cassettekonecsolnechnyhdnejfinalanebudet
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/konec-solnechnyh-dnej - finala-ne-budet.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKSBmuzicDEP
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/KSB_muzic - DEP.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKSBmuzicWYAvytacshutebyasodna
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/KSB_muzic - W YA vytacshu tebya so dna.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKuusouMesorogiwi
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kuusou Mesorogiwi.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLastChristmas
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Last Christmas.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -327,6 +527,16 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/Mark Bernes - Temnaya noch.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMellSher&5opkaLongAylend
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/MellSher & 5opka - Long Aylend.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -380,6 +590,16 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteNightcoreSweetLittleBumblebee
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Nightcore - Sweet_Little_Bumblebee.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteNirvanaDrainYou
 	{
 		category = True Music,
@@ -387,6 +607,16 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/Nirvana - Drain You.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePeaceSign
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Peace Sign.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -427,6 +657,16 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/Persona 3 Reload - Changing Seasons.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound Cassettepivzavod2077Fotografiruyupivas(SkySoundcc)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/pivzavod2077_-_Fotografiruyu_pivas_(SkySound.cc).ogg,
 			distanceMax = 75,
 		}
 	}
@@ -480,6 +720,46 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteRadioheadElectioneering
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Radiohead-Electioneering.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRadioheadExitMusicForaFilm
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Radiohead-Exit-Music-_For-a-Film_.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRenaiCirculation
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Renai Circulation.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteReol+nqrse
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Reol+nqrse.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteRoaroftheJungleDragon
 	{
 		category = True Music,
@@ -497,6 +777,26 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/Rock - I Am Rock.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRunninginThe90s
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Running in The 90s.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSakuraIkimonoGakari
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sakura Ikimono Gakari.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -1080,6 +1380,16 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteStep
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Step.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteStormaeAlenaDast
 	{
 		category = True Music,
@@ -1087,6 +1397,16 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/Stormae - Alena Dast.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteStressedGlob
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Stressed Glob.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -1120,6 +1440,16 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteTank
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Tank.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteTantsevat(Tancevat)byMolchatDoma
 	{
 		category = True Music,
@@ -1127,6 +1457,16 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/Tantsevat (Tancevat) by Molchat Doma.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTellMeWhy
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Tell Me Why.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -1150,6 +1490,16 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteTheDay
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Day.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteThePeggiesKiminoSei
 	{
 		category = True Music,
@@ -1167,6 +1517,16 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/Tincup - Lost.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTinyLight
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Tiny Light.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -1280,6 +1640,16 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteViewtifulDays
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Viewtiful Days.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteVirusPoproshutebya
 	{
 		category = True Music,
@@ -1300,6 +1670,16 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteVolheyMilomaterishsya
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Volhey-Milo-materishsya.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteVolny(Volny)byMolchatDoma
 	{
 		category = True Music,
@@ -1307,6 +1687,16 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/Volny (Volny) by Molchat Doma.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteWonderfulWonderWorld
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Wonderful Wonder World.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -1347,6 +1737,116 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/YUliya Savicheva - Esli v serdtse zhivet lyubov.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteYumenoTsuzuki
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Yume no Tsuzuki.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMayzenbergvitalyuobmanul
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Mayzenberg-vitalyu-obmanul.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSeregaPiratMutantyizkanalizatsii
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Serega-Pirat-Mutanty-iz-kanalizatsii.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSindromVosmiklassnikaKerosinpomoimvenam
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sindrom Vosmiklassnika - Kerosin po moim venam.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSTINTEtonemoyvayb
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/STINT-Eto-ne-moy-vayb.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTriDnyaDozhdyaOtpuskay
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Tri-Dnya-Dozhdya-Otpuskay.ogg,
+			distanceMax = 75,
+		}
+	}
+		sound CassetteSmetanaBandpitplakat
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Smetana Band - pit plakat.ogg,
+			distanceMax = 75,
+		}
+	}
+		sound CassetteNerviPoteri
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Nervi - Poteri.ogg,
+			distanceMax = 75,
+		}
+	}
+		sound CassetteSmetanabandkogdamoyadevushkakurit
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Smetana band - kogda moya devushka kurit.ogg,
+			distanceMax = 75,
+		}
+	}
+		sound CassetteNervitochtomnenuzno
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Nervi - to chto mne nuzno.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteYArcheSolntsaNeHochu
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/YArche Solntsa Ne Hochu.ogg,
 			distanceMax = 75,
 		}
 	}

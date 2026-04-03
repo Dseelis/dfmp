@@ -321,6 +321,14 @@ table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.CassetteUmamusumeUN
 table.insert(VehicleDistributions.GloveBox.items, 0.07);
 table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.CassetteUmamusume2ED");
 table.insert(VehicleDistributions.GloveBox.items, 0.07);
+table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.CassetteSmetanabandkogdamoyadevushkakurit");
+table.insert(VehicleDistributions.GloveBox.items, 0.07);
+table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.CassetteSmetanaBandpitplakat");
+table.insert(VehicleDistributions.GloveBox.items, 0.07);
+table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.CassetteNerviPoteri");
+table.insert(VehicleDistributions.GloveBox.items, 0.07);
+table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.CassetteNervitochtomnenuzno");
+table.insert(VehicleDistributions.GloveBox.items, 0.07);
 table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.CassetteUniversalCollapse");
 table.insert(VehicleDistributions.GloveBox.items, 0.07);
 table.insert(VehicleDistributions.GloveBox.items, "Tsarcraft.CassetteValentinStrykaloNasheleto");

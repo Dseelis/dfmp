@@ -1806,6 +1806,46 @@ module Tsarcraft
 		WorldStaticModel = Tsarcraft.TCTape4,
 	}
 
+	item CassetteSmetanabandkogdamoyadevushkakurit
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Smetana band - kogda moya devushka kurit,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteNerviPoteri
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Nervi - Poteri,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteSmetanaBandpitplakat
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Smetana Band - pit plakat,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteNervitochtomnenuzno
+	{
+		ItemType		=	base:normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Nervi - to chto mne nuzno,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
 	item CassetteYArcheSolntsaNeHochu
 	{
 		ItemType		=	base:normal,

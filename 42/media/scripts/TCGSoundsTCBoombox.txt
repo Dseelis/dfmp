@@ -1800,6 +1800,46 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+		sound CassetteSmetanaBandpitplakat
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Smetana Band - pit plakat.ogg,
+			distanceMax = 75,
+		}
+	}
+		sound CassetteNerviPoteri
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Nervi - Poteri.ogg,
+			distanceMax = 75,
+		}
+	}
+		sound CassetteSmetanabandkogdamoyadevushkakurit
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Smetana band - kogda moya devushka kurit.ogg,
+			distanceMax = 75,
+		}
+	}
+		sound CassetteNervitochtomnenuzno
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Nervi - to chto mne nuzno.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteYArcheSolntsaNeHochu
 	{
 		category = True Music,
