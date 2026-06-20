@@ -1,0 +1,1189 @@
+module dfmp
+{
+    imports
+    {
+        Base
+    }
+
+    // ===== Serega Pirat Mix Vol.1 =====
+    item SPVol1CassetteA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette1,
+        DisplayName = Serega Pirat Mix Vol.1 (Cassette A-side),
+        WorldStaticModel = NewMusic.Cassette1,
+        CanSpawn = true,
+    }
+
+    item SPVol1CassetteB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette1,
+        DisplayName = Serega Pirat Mix Vol.1 (Cassette B-side),
+        WorldStaticModel = NewMusic.Cassette1,
+        CanSpawn = true,
+    }
+
+    item SPVol1CassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Serega Pirat Mix Vol.1 Cassette Case (Empty),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item SPVol1CassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Serega Pirat Mix Vol.1 Cassette Case (Full),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item SPVol1CDA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Serega Pirat Mix Vol.1 (CD A-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item SPVol1CDB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Serega Pirat Mix Vol.1 (CD B-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item SPVol1CDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Empty,
+        DisplayName = Serega Pirat Mix Vol.1 CD Cover (Empty),
+        WorldStaticModel = NewMusic.CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item SPVol1CDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Blank,
+        DisplayName = Serega Pirat Mix Vol.1 CD Cover (Full),
+        WorldStaticModel = NewMusic.CDCoverBlank,
+        CanSpawn = true,
+    }
+
+    // ===== Serega Pirat Mix Vol.2 =====
+    item SPVol2CassetteA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette2,
+        DisplayName = Serega Pirat Mix Vol.2 (Cassette A-side),
+        WorldStaticModel = NewMusic.Cassette2,
+        CanSpawn = true,
+    }
+
+    item SPVol2CassetteB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette2,
+        DisplayName = Serega Pirat Mix Vol.2 (Cassette B-side),
+        WorldStaticModel = NewMusic.Cassette2,
+        CanSpawn = true,
+    }
+
+    item SPVol2CassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Serega Pirat Mix Vol.2 Cassette Case (Empty),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item SPVol2CassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Serega Pirat Mix Vol.2 Cassette Case (Full),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item SPVol2CDA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Serega Pirat Mix Vol.2 (CD A-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item SPVol2CDB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Serega Pirat Mix Vol.2 (CD B-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item SPVol2CDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Empty,
+        DisplayName = Serega Pirat Mix Vol.2 CD Cover (Empty),
+        WorldStaticModel = NewMusic.CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item SPVol2CDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Blank,
+        DisplayName = Serega Pirat Mix Vol.2 CD Cover (Full),
+        WorldStaticModel = NewMusic.CDCoverBlank,
+        CanSpawn = true,
+    }
+
+    // ===== Serega Pirat Mix Vol.3 =====
+    item SPVol3Cassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette3,
+        DisplayName = Serega Pirat Mix Vol.3 (Cassette),
+        WorldStaticModel = NewMusic.Cassette3,
+        CanSpawn = true,
+    }
+
+    item SPVol3CassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Serega Pirat Mix Vol.3 Cassette Case (Empty),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item SPVol3CassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Serega Pirat Mix Vol.3 Cassette Case (Full),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item SPVol3CD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Serega Pirat Mix Vol.3 (CD),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item SPVol3CDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Empty,
+        DisplayName = Serega Pirat Mix Vol.3 CD Cover (Empty),
+        WorldStaticModel = NewMusic.CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item SPVol3CDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Blank,
+        DisplayName = Serega Pirat Mix Vol.3 CD Cover (Full),
+        WorldStaticModel = NewMusic.CDCoverBlank,
+        CanSpawn = true,
+    }
+
+    // ===== Kessoku Band Mix =====
+    item KBCassetteA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette4,
+        DisplayName = Kessoku Band Mix (Cassette A-side),
+        WorldStaticModel = NewMusic.Cassette4,
+        CanSpawn = true,
+    }
+
+    item KBCassetteB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette4,
+        DisplayName = Kessoku Band Mix (Cassette B-side),
+        WorldStaticModel = NewMusic.Cassette4,
+        CanSpawn = true,
+    }
+
+    item KBCassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Kessoku Band Mix Cassette Case (Empty),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item KBCassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Kessoku Band Mix Cassette Case (Full),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item KBCDA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Kessoku Band Mix (CD A-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item KBCDB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Kessoku Band Mix (CD B-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item KBCDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Empty,
+        DisplayName = Kessoku Band Mix CD Cover (Empty),
+        WorldStaticModel = NewMusic.CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item KBCDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Blank,
+        DisplayName = Kessoku Band Mix CD Cover (Full),
+        WorldStaticModel = NewMusic.CDCoverBlank,
+        CanSpawn = true,
+    }
+
+    // ===== Anime Mix =====
+    item AnimeCassetteA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette5,
+        DisplayName = Anime Mix (Cassette A-side),
+        WorldStaticModel = NewMusic.Cassette5,
+        CanSpawn = true,
+    }
+
+    item AnimeCassetteB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette5,
+        DisplayName = Anime Mix (Cassette B-side),
+        WorldStaticModel = NewMusic.Cassette5,
+        CanSpawn = true,
+    }
+
+    item AnimeCassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Anime Mix Cassette Case (Empty),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item AnimeCassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Anime Mix Cassette Case (Full),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item AnimeCDA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Anime Mix (CD A-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item AnimeCDB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Anime Mix (CD B-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item AnimeCDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Empty,
+        DisplayName = Anime Mix CD Cover (Empty),
+        WorldStaticModel = NewMusic.CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item AnimeCDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Blank,
+        DisplayName = Anime Mix CD Cover (Full),
+        WorldStaticModel = NewMusic.CDCoverBlank,
+        CanSpawn = true,
+    }
+
+    // ===== Molchat Doma Mix =====
+    item MDCassetteA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette6,
+        DisplayName = Molchat Doma Mix (Cassette A-side),
+        WorldStaticModel = NewMusic.Cassette6,
+        CanSpawn = true,
+    }
+
+    item MDCassetteB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette6,
+        DisplayName = Molchat Doma Mix (Cassette B-side),
+        WorldStaticModel = NewMusic.Cassette6,
+        CanSpawn = true,
+    }
+
+    item MDCassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Molchat Doma Mix Cassette Case (Empty),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item MDCassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Molchat Doma Mix Cassette Case (Full),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item MDCDA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Molchat Doma Mix (CD A-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item MDCDB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Molchat Doma Mix (CD B-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item MDCDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Empty,
+        DisplayName = Molchat Doma Mix CD Cover (Empty),
+        WorldStaticModel = NewMusic.CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item MDCDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Blank,
+        DisplayName = Molchat Doma Mix CD Cover (Full),
+        WorldStaticModel = NewMusic.CDCoverBlank,
+        CanSpawn = true,
+    }
+
+    // ===== Persona 3 Reload Mix =====
+    item P3Cassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette7,
+        DisplayName = Persona 3 Reload Mix (Cassette),
+        WorldStaticModel = NewMusic.Cassette7,
+        CanSpawn = true,
+    }
+
+    item P3CassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Persona 3 Reload Mix Cassette Case (Empty),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item P3CassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Persona 3 Reload Mix Cassette Case (Full),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item P3CD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Persona 3 Reload Mix (CD),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item P3CDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Empty,
+        DisplayName = Persona 3 Reload Mix CD Cover (Empty),
+        WorldStaticModel = NewMusic.CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item P3CDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Blank,
+        DisplayName = Persona 3 Reload Mix CD Cover (Full),
+        WorldStaticModel = NewMusic.CDCoverBlank,
+        CanSpawn = true,
+    }
+
+    // ===== Umamusume Mix =====
+    item UmaCassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette8,
+        DisplayName = Umamusume Mix (Cassette),
+        WorldStaticModel = NewMusic.Cassette8,
+        CanSpawn = true,
+    }
+
+    item UmaCassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Umamusume Mix Cassette Case (Empty),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item UmaCassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Umamusume Mix Cassette Case (Full),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item UmaCD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Umamusume Mix (CD),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item UmaCDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Empty,
+        DisplayName = Umamusume Mix CD Cover (Empty),
+        WorldStaticModel = NewMusic.CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item UmaCDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Blank,
+        DisplayName = Umamusume Mix CD Cover (Full),
+        WorldStaticModel = NewMusic.CDCoverBlank,
+        CanSpawn = true,
+    }
+
+    // ===== Sektor Gaza Mix =====
+    item SGCassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette9,
+        DisplayName = Sektor Gaza Mix (Cassette),
+        WorldStaticModel = NewMusic.Cassette9,
+        CanSpawn = true,
+    }
+
+    item SGCassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Sektor Gaza Mix Cassette Case (Empty),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item SGCassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Sektor Gaza Mix Cassette Case (Full),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item SGCD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Sektor Gaza Mix (CD),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item SGCDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Empty,
+        DisplayName = Sektor Gaza Mix CD Cover (Empty),
+        WorldStaticModel = NewMusic.CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item SGCDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Blank,
+        DisplayName = Sektor Gaza Mix CD Cover (Full),
+        WorldStaticModel = NewMusic.CDCoverBlank,
+        CanSpawn = true,
+    }
+
+    // ===== Russian Mix Vol.1 =====
+    item RU1CassetteA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette10,
+        DisplayName = Russian Mix Vol.1 (Cassette A-side),
+        WorldStaticModel = NewMusic.Cassette10,
+        CanSpawn = true,
+    }
+
+    item RU1CassetteB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette10,
+        DisplayName = Russian Mix Vol.1 (Cassette B-side),
+        WorldStaticModel = NewMusic.Cassette10,
+        CanSpawn = true,
+    }
+
+    item RU1CassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Russian Mix Vol.1 Cassette Case (Empty),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item RU1CassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Russian Mix Vol.1 Cassette Case (Full),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item RU1CDA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Russian Mix Vol.1 (CD A-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item RU1CDB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Russian Mix Vol.1 (CD B-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item RU1CDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Empty,
+        DisplayName = Russian Mix Vol.1 CD Cover (Empty),
+        WorldStaticModel = NewMusic.CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item RU1CDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Blank,
+        DisplayName = Russian Mix Vol.1 CD Cover (Full),
+        WorldStaticModel = NewMusic.CDCoverBlank,
+        CanSpawn = true,
+    }
+
+    // ===== Russian Mix Vol.2 =====
+    item RU2CassetteA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette11,
+        DisplayName = Russian Mix Vol.2 (Cassette A-side),
+        WorldStaticModel = NewMusic.Cassette11,
+        CanSpawn = true,
+    }
+
+    item RU2CassetteB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette11,
+        DisplayName = Russian Mix Vol.2 (Cassette B-side),
+        WorldStaticModel = NewMusic.Cassette11,
+        CanSpawn = true,
+    }
+
+    item RU2CassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Russian Mix Vol.2 Cassette Case (Empty),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item RU2CassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Russian Mix Vol.2 Cassette Case (Full),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item RU2CDA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Russian Mix Vol.2 (CD A-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item RU2CDB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Russian Mix Vol.2 (CD B-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item RU2CDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Empty,
+        DisplayName = Russian Mix Vol.2 CD Cover (Empty),
+        WorldStaticModel = NewMusic.CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item RU2CDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Blank,
+        DisplayName = Russian Mix Vol.2 CD Cover (Full),
+        WorldStaticModel = NewMusic.CDCoverBlank,
+        CanSpawn = true,
+    }
+
+    // ===== Sponge Bob Mix =====
+    item SBCassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette12,
+        DisplayName = Sponge Bob Mix (Cassette),
+        WorldStaticModel = NewMusic.Cassette12,
+        CanSpawn = true,
+    }
+
+    item SBCassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Sponge Bob Mix Cassette Case (Empty),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item SBCassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Sponge Bob Mix Cassette Case (Full),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item SBCD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Sponge Bob Mix (CD),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item SBCDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Empty,
+        DisplayName = Sponge Bob Mix CD Cover (Empty),
+        WorldStaticModel = NewMusic.CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item SBCDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Blank,
+        DisplayName = Sponge Bob Mix CD Cover (Full),
+        WorldStaticModel = NewMusic.CDCoverBlank,
+        CanSpawn = true,
+    }
+
+    // ===== Random Mix Vol.1 =====
+    item Mix1CassetteA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette13,
+        DisplayName = Random Mix Vol.1 (Cassette A-side),
+        WorldStaticModel = NewMusic.Cassette13,
+        CanSpawn = true,
+    }
+
+    item Mix1CassetteB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette13,
+        DisplayName = Random Mix Vol.1 (Cassette B-side),
+        WorldStaticModel = NewMusic.Cassette13,
+        CanSpawn = true,
+    }
+
+    item Mix1CassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Random Mix Vol.1 Cassette Case (Empty),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item Mix1CassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Random Mix Vol.1 Cassette Case (Full),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item Mix1CDA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Random Mix Vol.1 (CD A-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item Mix1CDB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Random Mix Vol.1 (CD B-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item Mix1CDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Empty,
+        DisplayName = Random Mix Vol.1 CD Cover (Empty),
+        WorldStaticModel = NewMusic.CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item Mix1CDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Blank,
+        DisplayName = Random Mix Vol.1 CD Cover (Full),
+        WorldStaticModel = NewMusic.CDCoverBlank,
+        CanSpawn = true,
+    }
+
+    // ===== Random Mix Vol.2 =====
+    item Mix2CassetteA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette14,
+        DisplayName = Random Mix Vol.2 (Cassette A-side),
+        WorldStaticModel = NewMusic.Cassette14,
+        CanSpawn = true,
+    }
+
+    item Mix2CassetteB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette14,
+        DisplayName = Random Mix Vol.2 (Cassette B-side),
+        WorldStaticModel = NewMusic.Cassette14,
+        CanSpawn = true,
+    }
+
+    item Mix2CassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Random Mix Vol.2 Cassette Case (Empty),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item Mix2CassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Random Mix Vol.2 Cassette Case (Full),
+        WorldStaticModel = NewMusic.CassetteCover14,
+        CanSpawn = true,
+    }
+
+    item Mix2CDA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Random Mix Vol.2 (CD A-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item Mix2CDB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Random Mix Vol.2 (CD B-side),
+        WorldStaticModel = NewMusic.CD,
+        CanSpawn = true,
+    }
+
+    item Mix2CDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Empty,
+        DisplayName = Random Mix Vol.2 CD Cover (Empty),
+        WorldStaticModel = NewMusic.CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item Mix2CDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_Blank,
+        DisplayName = Random Mix Vol.2 CD Cover (Full),
+        WorldStaticModel = NewMusic.CDCoverBlank,
+        CanSpawn = true,
+    }
+
+    // ===== Linkin Park =====
+    item LPVinylA
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl3,
+        DisplayName = Linkin Park (Vinyl A-side),
+        WorldStaticModel = NewMusic.Vinyl3,
+        CanSpawn = true,
+    }
+
+    item LPVinylB
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl3,
+        DisplayName = Linkin Park (Vinyl B-side),
+        WorldStaticModel = NewMusic.Vinyl3,
+        CanSpawn = true,
+    }
+
+    item LPJacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket19_empty,
+        DisplayName = Linkin Park Jacket (Empty),
+        WorldStaticModel = NewMusic.Cover19Empty,
+        CanSpawn = true,
+    }
+
+    item LPJacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket19,
+        DisplayName = Linkin Park Jacket (Full),
+        WorldStaticModel = NewMusic.Cover19,
+        CanSpawn = true,
+    }
+
+}
