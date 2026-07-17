@@ -1,0 +1,1178 @@
+module dfmp
+{
+    imports
+    {
+        Base
+    }
+
+    model AnimeMixCassette
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette_dfmp_AnimeMix,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model AnimeMixVinyl
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl_dfmp_AnimeMix,
+        scale = 0.12,
+    }
+
+    model AnimeMixCD
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model AnimeMixCassetteCaseEmpty
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_AnimeMix,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model AnimeMixCassetteCaseFull
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_AnimeMix,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model AnimeMixJacketEmpty
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_AnimeMix,
+        scale = 0.1,
+    }
+
+    model AnimeMixJacketFull
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_AnimeMix,
+        scale = 0.1,
+    }
+
+    model AnimeMixCDCoverEmpty
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_AnimeMix,
+        scale = 0.06,
+    }
+
+    model AnimeMixCDCoverFull
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_AnimeMix,
+        scale = 0.06,
+    }
+
+    model KessokuBandCassette
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette_dfmp_KessokuBand,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model KessokuBandVinyl
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl_dfmp_KessokuBand,
+        scale = 0.12,
+    }
+
+    model KessokuBandCD
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model KessokuBandCassetteCaseEmpty
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_KessokuBand,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model KessokuBandCassetteCaseFull
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_KessokuBand,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model KessokuBandJacketEmpty
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_KessokuBand,
+        scale = 0.1,
+    }
+
+    model KessokuBandJacketFull
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_KessokuBand,
+        scale = 0.1,
+    }
+
+    model KessokuBandCDCoverEmpty
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_KessokuBand,
+        scale = 0.06,
+    }
+
+    model KessokuBandCDCoverFull
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_KessokuBand,
+        scale = 0.06,
+    }
+
+    model LinkinParkCassette
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette_dfmp_LinkinPark,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model LinkinParkVinyl
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl_dfmp_LinkinPark,
+        scale = 0.12,
+    }
+
+    model LinkinParkCD
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model LinkinParkCassetteCaseEmpty
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_LinkinPark,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model LinkinParkCassetteCaseFull
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_LinkinPark,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model LinkinParkJacketEmpty
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_LinkinPark,
+        scale = 0.1,
+    }
+
+    model LinkinParkJacketFull
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_LinkinPark,
+        scale = 0.1,
+    }
+
+    model LinkinParkCDCoverEmpty
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_LinkinPark,
+        scale = 0.06,
+    }
+
+    model LinkinParkCDCoverFull
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_LinkinPark,
+        scale = 0.06,
+    }
+
+    model MolchatDomaCassette
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette18,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model MolchatDomaVinyl
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl6,
+        scale = 0.12,
+    }
+
+    model MolchatDomaCD
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model MolchatDomaCassetteCaseEmpty
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover14,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model MolchatDomaCassetteCaseFull
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover14,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model MolchatDomaJacketEmpty
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover14,
+        scale = 0.1,
+    }
+
+    model MolchatDomaJacketFull
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover14,
+        scale = 0.1,
+    }
+
+    model MolchatDomaCDCoverEmpty
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover14,
+        scale = 0.06,
+    }
+
+    model MolchatDomaCDCoverFull
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover14,
+        scale = 0.06,
+    }
+
+    model Persona3Cassette
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette_dfmp_Persona3,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model Persona3Vinyl
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl_dfmp_Persona3,
+        scale = 0.12,
+    }
+
+    model Persona3CD
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model Persona3CassetteCaseEmpty
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_Persona3,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model Persona3CassetteCaseFull
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_Persona3,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model Persona3JacketEmpty
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_Persona3,
+        scale = 0.1,
+    }
+
+    model Persona3JacketFull
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_Persona3,
+        scale = 0.1,
+    }
+
+    model Persona3CDCoverEmpty
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_Persona3,
+        scale = 0.06,
+    }
+
+    model Persona3CDCoverFull
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_Persona3,
+        scale = 0.06,
+    }
+
+    model RandomMixVol1Cassette
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette_dfmp_RandomMixVol1,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model RandomMixVol1Vinyl
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl_dfmp_RandomMixVol1,
+        scale = 0.12,
+    }
+
+    model RandomMixVol1CD
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model RandomMixVol1CassetteCaseEmpty
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_RandomMixVol1,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model RandomMixVol1CassetteCaseFull
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_RandomMixVol1,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model RandomMixVol1JacketEmpty
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_RandomMixVol1,
+        scale = 0.1,
+    }
+
+    model RandomMixVol1JacketFull
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_RandomMixVol1,
+        scale = 0.1,
+    }
+
+    model RandomMixVol1CDCoverEmpty
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_RandomMixVol1,
+        scale = 0.06,
+    }
+
+    model RandomMixVol1CDCoverFull
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_RandomMixVol1,
+        scale = 0.06,
+    }
+
+    model RandomMixVol2Cassette
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette_dfmp_RandomMixVol2,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model RandomMixVol2Vinyl
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl_dfmp_RandomMixVol2,
+        scale = 0.12,
+    }
+
+    model RandomMixVol2CD
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model RandomMixVol2CassetteCaseEmpty
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_RandomMixVol2,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model RandomMixVol2CassetteCaseFull
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_RandomMixVol2,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model RandomMixVol2JacketEmpty
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_RandomMixVol2,
+        scale = 0.1,
+    }
+
+    model RandomMixVol2JacketFull
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_RandomMixVol2,
+        scale = 0.1,
+    }
+
+    model RandomMixVol2CDCoverEmpty
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_RandomMixVol2,
+        scale = 0.06,
+    }
+
+    model RandomMixVol2CDCoverFull
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_RandomMixVol2,
+        scale = 0.06,
+    }
+
+    model RussianMixVol1Cassette
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette_dfmp_RussianMixVol1,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model RussianMixVol1Vinyl
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl_dfmp_RussianMixVol1,
+        scale = 0.12,
+    }
+
+    model RussianMixVol1CD
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model RussianMixVol1CassetteCaseEmpty
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_RussianMixVol1,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model RussianMixVol1CassetteCaseFull
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_RussianMixVol1,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model RussianMixVol1JacketEmpty
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_RussianMixVol1,
+        scale = 0.1,
+    }
+
+    model RussianMixVol1JacketFull
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_RussianMixVol1,
+        scale = 0.1,
+    }
+
+    model RussianMixVol1CDCoverEmpty
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_RussianMixVol1,
+        scale = 0.06,
+    }
+
+    model RussianMixVol1CDCoverFull
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_RussianMixVol1,
+        scale = 0.06,
+    }
+
+    model RussianMixVol2Cassette
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette_dfmp_RussianMixVol2,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model RussianMixVol2Vinyl
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl_dfmp_RussianMixVol2,
+        scale = 0.12,
+    }
+
+    model RussianMixVol2CD
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model RussianMixVol2CassetteCaseEmpty
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_RussianMixVol2,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model RussianMixVol2CassetteCaseFull
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_RussianMixVol2,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model RussianMixVol2JacketEmpty
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_RussianMixVol2,
+        scale = 0.1,
+    }
+
+    model RussianMixVol2JacketFull
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_RussianMixVol2,
+        scale = 0.1,
+    }
+
+    model RussianMixVol2CDCoverEmpty
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_RussianMixVol2,
+        scale = 0.06,
+    }
+
+    model RussianMixVol2CDCoverFull
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_RussianMixVol2,
+        scale = 0.06,
+    }
+
+    model SectorGazaCassette
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette_dfmp_SectorGaza,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model SectorGazaVinyl
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl_dfmp_SectorGaza,
+        scale = 0.12,
+    }
+
+    model SectorGazaCD
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model SectorGazaCassetteCaseEmpty
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_SectorGaza,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model SectorGazaCassetteCaseFull
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_SectorGaza,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model SectorGazaJacketEmpty
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_SectorGaza,
+        scale = 0.1,
+    }
+
+    model SectorGazaJacketFull
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_SectorGaza,
+        scale = 0.1,
+    }
+
+    model SectorGazaCDCoverEmpty
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_SectorGaza,
+        scale = 0.06,
+    }
+
+    model SectorGazaCDCoverFull
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_SectorGaza,
+        scale = 0.06,
+    }
+
+    model SeregaPiratVol1Cassette
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette_dfmp_SeregaPiratVol1,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model SeregaPiratVol1Vinyl
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl_dfmp_SeregaPiratVol1,
+        scale = 0.12,
+    }
+
+    model SeregaPiratVol1CD
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model SeregaPiratVol1CassetteCaseEmpty
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_SeregaPiratVol1,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model SeregaPiratVol1CassetteCaseFull
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_SeregaPiratVol1,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model SeregaPiratVol1JacketEmpty
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_SeregaPiratVol1,
+        scale = 0.1,
+    }
+
+    model SeregaPiratVol1JacketFull
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_SeregaPiratVol1,
+        scale = 0.1,
+    }
+
+    model SeregaPiratVol1CDCoverEmpty
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_SeregaPiratVol1,
+        scale = 0.06,
+    }
+
+    model SeregaPiratVol1CDCoverFull
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_SeregaPiratVol1,
+        scale = 0.06,
+    }
+
+    model SeregaPiratVol2Cassette
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette_dfmp_SeregaPiratVol2,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model SeregaPiratVol2Vinyl
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl_dfmp_SeregaPiratVol2,
+        scale = 0.12,
+    }
+
+    model SeregaPiratVol2CD
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model SeregaPiratVol2CassetteCaseEmpty
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_SeregaPiratVol2,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model SeregaPiratVol2CassetteCaseFull
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_SeregaPiratVol2,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model SeregaPiratVol2JacketEmpty
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_SeregaPiratVol2,
+        scale = 0.1,
+    }
+
+    model SeregaPiratVol2JacketFull
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_SeregaPiratVol2,
+        scale = 0.1,
+    }
+
+    model SeregaPiratVol2CDCoverEmpty
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_SeregaPiratVol2,
+        scale = 0.06,
+    }
+
+    model SeregaPiratVol2CDCoverFull
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_SeregaPiratVol2,
+        scale = 0.06,
+    }
+
+    model SeregaPiratandOtherCassette
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette_dfmp_SeregaPiratandOther,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model SeregaPiratandOtherVinyl
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl_dfmp_SeregaPiratandOther,
+        scale = 0.12,
+    }
+
+    model SeregaPiratandOtherCD
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model SeregaPiratandOtherCassetteCaseEmpty
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_SeregaPiratandOther,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model SeregaPiratandOtherCassetteCaseFull
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_SeregaPiratandOther,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model SeregaPiratandOtherJacketEmpty
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_SeregaPiratandOther,
+        scale = 0.1,
+    }
+
+    model SeregaPiratandOtherJacketFull
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_SeregaPiratandOther,
+        scale = 0.1,
+    }
+
+    model SeregaPiratandOtherCDCoverEmpty
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_SeregaPiratandOther,
+        scale = 0.06,
+    }
+
+    model SeregaPiratandOtherCDCoverFull
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_SeregaPiratandOther,
+        scale = 0.06,
+    }
+
+    model SpongeBobCassette
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette_dfmp_SpongeBob,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model SpongeBobVinyl
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl_dfmp_SpongeBob,
+        scale = 0.12,
+    }
+
+    model SpongeBobCD
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model SpongeBobCassetteCaseEmpty
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_SpongeBob,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model SpongeBobCassetteCaseFull
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_SpongeBob,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model SpongeBobJacketEmpty
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_SpongeBob,
+        scale = 0.1,
+    }
+
+    model SpongeBobJacketFull
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_SpongeBob,
+        scale = 0.1,
+    }
+
+    model SpongeBobCDCoverEmpty
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_SpongeBob,
+        scale = 0.06,
+    }
+
+    model SpongeBobCDCoverFull
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_SpongeBob,
+        scale = 0.06,
+    }
+
+    model UmamusumeCassette
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette_dfmp_Umamusume,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model UmamusumeVinyl
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl_dfmp_Umamusume,
+        scale = 0.12,
+    }
+
+    model UmamusumeCD
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model UmamusumeCassetteCaseEmpty
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_Umamusume,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model UmamusumeCassetteCaseFull
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_Umamusume,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model UmamusumeJacketEmpty
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_Umamusume,
+        scale = 0.1,
+    }
+
+    model UmamusumeJacketFull
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_Umamusume,
+        scale = 0.1,
+    }
+
+    model UmamusumeCDCoverEmpty
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_Umamusume,
+        scale = 0.06,
+    }
+
+    model UmamusumeCDCoverFull
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_Umamusume,
+        scale = 0.06,
+    }
+
+}

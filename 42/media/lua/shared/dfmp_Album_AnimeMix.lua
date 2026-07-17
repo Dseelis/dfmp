@@ -1,0 +1,73 @@
+
+
+NMdfmpAlbum_AnimeMix = {
+    id = "AnimeMix",
+    title = "Anime Mix",
+    trackSource = {
+        soundPrefix = "dfmpAnimeMix",
+        labels = {
+            "UI_dfmp_AnimeMix_Song_01",
+            "UI_dfmp_AnimeMix_Song_02",
+            "UI_dfmp_AnimeMix_Song_03",
+            "UI_dfmp_AnimeMix_Song_04",
+            "UI_dfmp_AnimeMix_Song_05",
+            "UI_dfmp_AnimeMix_Song_06",
+            "UI_dfmp_AnimeMix_Song_07",
+            "UI_dfmp_AnimeMix_Song_08",
+            "UI_dfmp_AnimeMix_Song_09",
+            "UI_dfmp_AnimeMix_Song_10",
+            "UI_dfmp_AnimeMix_Song_11",
+            "UI_dfmp_AnimeMix_Song_12",
+            "UI_dfmp_AnimeMix_Song_13",
+            "UI_dfmp_AnimeMix_Song_14",
+            "UI_dfmp_AnimeMix_Song_15",
+            "UI_dfmp_AnimeMix_Song_16",
+            "UI_dfmp_AnimeMix_Song_17",
+            "UI_dfmp_AnimeMix_Song_18",
+            "UI_dfmp_AnimeMix_Song_19",
+            "UI_dfmp_AnimeMix_Song_20",
+            "UI_dfmp_AnimeMix_Song_21",
+            "UI_dfmp_AnimeMix_Song_22",
+            "UI_dfmp_AnimeMix_Song_23",
+            "UI_dfmp_AnimeMix_Song_24",
+            "UI_dfmp_AnimeMix_Song_25",
+            "UI_dfmp_AnimeMix_Song_26",
+            "UI_dfmp_AnimeMix_Song_27",
+        },
+    },
+    media = {
+        cassette = {
+            mode = "full",
+            items = {
+                full = "AnimeMixCassette",
+                containerEmpty = "AnimeMixCassetteCaseEmpty",
+                containerFull = "AnimeMixCassetteCaseFull",
+            },
+        },
+        vinyl = {
+            mode = "full",
+            items = {
+                full = "AnimeMixVinyl",
+                containerEmpty = "AnimeMixJacketEmpty",
+                containerFull = "AnimeMixJacketFull",
+            },
+        },
+        cd = {
+            mode = "full",
+            items = {
+                full = "AnimeMixCD",
+                containerEmpty = "AnimeMixCDCoverEmpty",
+                containerFull = "AnimeMixCDCoverFull",
+            },
+        },
+    },
+    coverGroups = {
+        {
+            mode = "linked",
+            texture = "WorldItems/Vinyl/HR/World_NM_Cover_dfmp_AnimeMix",
+            includePlayable = { "cassette", "vinyl", "cd" },
+            includeContainers = { "cassette", "vinyl", "cd" },
+            includeEmptyContainers = { "cassette", "vinyl", "cd" },
+        },
+    },
+}

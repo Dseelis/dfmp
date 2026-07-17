@@ -1,0 +1,1493 @@
+module dfmp
+{
+    imports
+    {
+        Base
+    }
+
+    item AnimeMixCassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette_dfmp_AnimeMix,
+        DisplayName = Anime Mix (Cassette),
+        WorldStaticModel = dfmp.AnimeMixCassette,
+        CanSpawn = true,
+    }
+
+    item AnimeMixVinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl_dfmp_AnimeMix,
+        DisplayName = Anime Mix (Vinyl),
+        WorldStaticModel = dfmp.AnimeMixVinyl,
+        CanSpawn = true,
+    }
+
+    item AnimeMixCD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Anime Mix (CD),
+        WorldStaticModel = dfmp.AnimeMixCD,
+        CanSpawn = true,
+    }
+
+    item AnimeMixCassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_AnimeMix,
+        DisplayName = Anime Mix Cassette Case (Empty),
+        WorldStaticModel = dfmp.AnimeMixCassetteCaseEmpty,
+        CanSpawn = true,
+    }
+
+    item AnimeMixCassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_AnimeMix,
+        DisplayName = Anime Mix Cassette Case (Full),
+        WorldStaticModel = dfmp.AnimeMixCassetteCaseFull,
+        CanSpawn = true,
+    }
+
+    item AnimeMixJacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_AnimeMix,
+        DisplayName = Anime Mix Jacket (Empty),
+        WorldStaticModel = dfmp.AnimeMixJacketEmpty,
+        CanSpawn = true,
+    }
+
+    item AnimeMixJacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_AnimeMix,
+        DisplayName = Anime Mix Jacket (Full),
+        WorldStaticModel = dfmp.AnimeMixJacketFull,
+        CanSpawn = true,
+    }
+
+    item AnimeMixCDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_AnimeMix,
+        DisplayName = Anime Mix CD Cover (Empty),
+        WorldStaticModel = dfmp.AnimeMixCDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item AnimeMixCDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_AnimeMix,
+        DisplayName = Anime Mix CD Cover (Full),
+        WorldStaticModel = dfmp.AnimeMixCDCoverFull,
+        CanSpawn = true,
+    }
+
+    item KessokuBandCassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette_dfmp_KessokuBand,
+        DisplayName = Kessoku Band (Cassette),
+        WorldStaticModel = dfmp.KessokuBandCassette,
+        CanSpawn = true,
+    }
+
+    item KessokuBandVinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl_dfmp_KessokuBand,
+        DisplayName = Kessoku Band (Vinyl),
+        WorldStaticModel = dfmp.KessokuBandVinyl,
+        CanSpawn = true,
+    }
+
+    item KessokuBandCD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Kessoku Band (CD),
+        WorldStaticModel = dfmp.KessokuBandCD,
+        CanSpawn = true,
+    }
+
+    item KessokuBandCassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_KessokuBand,
+        DisplayName = Kessoku Band Cassette Case (Empty),
+        WorldStaticModel = dfmp.KessokuBandCassetteCaseEmpty,
+        CanSpawn = true,
+    }
+
+    item KessokuBandCassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_KessokuBand,
+        DisplayName = Kessoku Band Cassette Case (Full),
+        WorldStaticModel = dfmp.KessokuBandCassetteCaseFull,
+        CanSpawn = true,
+    }
+
+    item KessokuBandJacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_KessokuBand,
+        DisplayName = Kessoku Band Jacket (Empty),
+        WorldStaticModel = dfmp.KessokuBandJacketEmpty,
+        CanSpawn = true,
+    }
+
+    item KessokuBandJacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_KessokuBand,
+        DisplayName = Kessoku Band Jacket (Full),
+        WorldStaticModel = dfmp.KessokuBandJacketFull,
+        CanSpawn = true,
+    }
+
+    item KessokuBandCDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_KessokuBand,
+        DisplayName = Kessoku Band CD Cover (Empty),
+        WorldStaticModel = dfmp.KessokuBandCDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item KessokuBandCDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_KessokuBand,
+        DisplayName = Kessoku Band CD Cover (Full),
+        WorldStaticModel = dfmp.KessokuBandCDCoverFull,
+        CanSpawn = true,
+    }
+
+    item LinkinParkCassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette_dfmp_LinkinPark,
+        DisplayName = Linkin Park (Cassette),
+        WorldStaticModel = dfmp.LinkinParkCassette,
+        CanSpawn = true,
+    }
+
+    item LinkinParkVinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl_dfmp_LinkinPark,
+        DisplayName = Linkin Park (Vinyl),
+        WorldStaticModel = dfmp.LinkinParkVinyl,
+        CanSpawn = true,
+    }
+
+    item LinkinParkCD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Linkin Park (CD),
+        WorldStaticModel = dfmp.LinkinParkCD,
+        CanSpawn = true,
+    }
+
+    item LinkinParkCassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_LinkinPark,
+        DisplayName = Linkin Park Cassette Case (Empty),
+        WorldStaticModel = dfmp.LinkinParkCassetteCaseEmpty,
+        CanSpawn = true,
+    }
+
+    item LinkinParkCassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_LinkinPark,
+        DisplayName = Linkin Park Cassette Case (Full),
+        WorldStaticModel = dfmp.LinkinParkCassetteCaseFull,
+        CanSpawn = true,
+    }
+
+    item LinkinParkJacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_LinkinPark,
+        DisplayName = Linkin Park Jacket (Empty),
+        WorldStaticModel = dfmp.LinkinParkJacketEmpty,
+        CanSpawn = true,
+    }
+
+    item LinkinParkJacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_LinkinPark,
+        DisplayName = Linkin Park Jacket (Full),
+        WorldStaticModel = dfmp.LinkinParkJacketFull,
+        CanSpawn = true,
+    }
+
+    item LinkinParkCDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_LinkinPark,
+        DisplayName = Linkin Park CD Cover (Empty),
+        WorldStaticModel = dfmp.LinkinParkCDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item LinkinParkCDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_LinkinPark,
+        DisplayName = Linkin Park CD Cover (Full),
+        WorldStaticModel = dfmp.LinkinParkCDCoverFull,
+        CanSpawn = true,
+    }
+
+    item MolchatDomaCassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette18,
+        DisplayName = Molchat Doma (Cassette),
+        WorldStaticModel = dfmp.MolchatDomaCassette,
+        CanSpawn = true,
+    }
+
+    item MolchatDomaVinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl6,
+        DisplayName = Molchat Doma (Vinyl),
+        WorldStaticModel = dfmp.MolchatDomaVinyl,
+        CanSpawn = true,
+    }
+
+    item MolchatDomaCD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Molchat Doma (CD),
+        WorldStaticModel = dfmp.MolchatDomaCD,
+        CanSpawn = true,
+    }
+
+    item MolchatDomaCassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Molchat Doma Cassette Case (Empty),
+        WorldStaticModel = dfmp.MolchatDomaCassetteCaseEmpty,
+        CanSpawn = true,
+    }
+
+    item MolchatDomaCassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case14,
+        DisplayName = Molchat Doma Cassette Case (Full),
+        WorldStaticModel = dfmp.MolchatDomaCassetteCaseFull,
+        CanSpawn = true,
+    }
+
+    item MolchatDomaJacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket14,
+        DisplayName = Molchat Doma Jacket (Empty),
+        WorldStaticModel = dfmp.MolchatDomaJacketEmpty,
+        CanSpawn = true,
+    }
+
+    item MolchatDomaJacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket14,
+        DisplayName = Molchat Doma Jacket (Full),
+        WorldStaticModel = dfmp.MolchatDomaJacketFull,
+        CanSpawn = true,
+    }
+
+    item MolchatDomaCDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover14,
+        DisplayName = Molchat Doma CD Cover (Empty),
+        WorldStaticModel = dfmp.MolchatDomaCDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item MolchatDomaCDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover14,
+        DisplayName = Molchat Doma CD Cover (Full),
+        WorldStaticModel = dfmp.MolchatDomaCDCoverFull,
+        CanSpawn = true,
+    }
+
+    item Persona3Cassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette_dfmp_Persona3,
+        DisplayName = Persona 3 (Cassette),
+        WorldStaticModel = dfmp.Persona3Cassette,
+        CanSpawn = true,
+    }
+
+    item Persona3Vinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl_dfmp_Persona3,
+        DisplayName = Persona 3 (Vinyl),
+        WorldStaticModel = dfmp.Persona3Vinyl,
+        CanSpawn = true,
+    }
+
+    item Persona3CD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Persona 3 (CD),
+        WorldStaticModel = dfmp.Persona3CD,
+        CanSpawn = true,
+    }
+
+    item Persona3CassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_Persona3,
+        DisplayName = Persona 3 Cassette Case (Empty),
+        WorldStaticModel = dfmp.Persona3CassetteCaseEmpty,
+        CanSpawn = true,
+    }
+
+    item Persona3CassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_Persona3,
+        DisplayName = Persona 3 Cassette Case (Full),
+        WorldStaticModel = dfmp.Persona3CassetteCaseFull,
+        CanSpawn = true,
+    }
+
+    item Persona3JacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_Persona3,
+        DisplayName = Persona 3 Jacket (Empty),
+        WorldStaticModel = dfmp.Persona3JacketEmpty,
+        CanSpawn = true,
+    }
+
+    item Persona3JacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_Persona3,
+        DisplayName = Persona 3 Jacket (Full),
+        WorldStaticModel = dfmp.Persona3JacketFull,
+        CanSpawn = true,
+    }
+
+    item Persona3CDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_Persona3,
+        DisplayName = Persona 3 CD Cover (Empty),
+        WorldStaticModel = dfmp.Persona3CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item Persona3CDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_Persona3,
+        DisplayName = Persona 3 CD Cover (Full),
+        WorldStaticModel = dfmp.Persona3CDCoverFull,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol1Cassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette_dfmp_RandomMixVol1,
+        DisplayName = Random Mix Vol1 (Cassette),
+        WorldStaticModel = dfmp.RandomMixVol1Cassette,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol1Vinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl_dfmp_RandomMixVol1,
+        DisplayName = Random Mix Vol1 (Vinyl),
+        WorldStaticModel = dfmp.RandomMixVol1Vinyl,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol1CD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Random Mix Vol1 (CD),
+        WorldStaticModel = dfmp.RandomMixVol1CD,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol1CassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_RandomMixVol1,
+        DisplayName = Random Mix Vol1 Cassette Case (Empty),
+        WorldStaticModel = dfmp.RandomMixVol1CassetteCaseEmpty,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol1CassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_RandomMixVol1,
+        DisplayName = Random Mix Vol1 Cassette Case (Full),
+        WorldStaticModel = dfmp.RandomMixVol1CassetteCaseFull,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol1JacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_RandomMixVol1,
+        DisplayName = Random Mix Vol1 Jacket (Empty),
+        WorldStaticModel = dfmp.RandomMixVol1JacketEmpty,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol1JacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_RandomMixVol1,
+        DisplayName = Random Mix Vol1 Jacket (Full),
+        WorldStaticModel = dfmp.RandomMixVol1JacketFull,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol1CDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_RandomMixVol1,
+        DisplayName = Random Mix Vol1 CD Cover (Empty),
+        WorldStaticModel = dfmp.RandomMixVol1CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol1CDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_RandomMixVol1,
+        DisplayName = Random Mix Vol1 CD Cover (Full),
+        WorldStaticModel = dfmp.RandomMixVol1CDCoverFull,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol2Cassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette_dfmp_RandomMixVol2,
+        DisplayName = Random Mix Vol2 (Cassette),
+        WorldStaticModel = dfmp.RandomMixVol2Cassette,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol2Vinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl_dfmp_RandomMixVol2,
+        DisplayName = Random Mix Vol2 (Vinyl),
+        WorldStaticModel = dfmp.RandomMixVol2Vinyl,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol2CD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Random Mix Vol2 (CD),
+        WorldStaticModel = dfmp.RandomMixVol2CD,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol2CassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_RandomMixVol2,
+        DisplayName = Random Mix Vol2 Cassette Case (Empty),
+        WorldStaticModel = dfmp.RandomMixVol2CassetteCaseEmpty,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol2CassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_RandomMixVol2,
+        DisplayName = Random Mix Vol2 Cassette Case (Full),
+        WorldStaticModel = dfmp.RandomMixVol2CassetteCaseFull,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol2JacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_RandomMixVol2,
+        DisplayName = Random Mix Vol2 Jacket (Empty),
+        WorldStaticModel = dfmp.RandomMixVol2JacketEmpty,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol2JacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_RandomMixVol2,
+        DisplayName = Random Mix Vol2 Jacket (Full),
+        WorldStaticModel = dfmp.RandomMixVol2JacketFull,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol2CDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_RandomMixVol2,
+        DisplayName = Random Mix Vol2 CD Cover (Empty),
+        WorldStaticModel = dfmp.RandomMixVol2CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item RandomMixVol2CDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_RandomMixVol2,
+        DisplayName = Random Mix Vol2 CD Cover (Full),
+        WorldStaticModel = dfmp.RandomMixVol2CDCoverFull,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol1Cassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette_dfmp_RussianMixVol1,
+        DisplayName = Russian Mix Vol1 (Cassette),
+        WorldStaticModel = dfmp.RussianMixVol1Cassette,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol1Vinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl_dfmp_RussianMixVol1,
+        DisplayName = Russian Mix Vol1 (Vinyl),
+        WorldStaticModel = dfmp.RussianMixVol1Vinyl,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol1CD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Russian Mix Vol1 (CD),
+        WorldStaticModel = dfmp.RussianMixVol1CD,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol1CassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_RussianMixVol1,
+        DisplayName = Russian Mix Vol1 Cassette Case (Empty),
+        WorldStaticModel = dfmp.RussianMixVol1CassetteCaseEmpty,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol1CassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_RussianMixVol1,
+        DisplayName = Russian Mix Vol1 Cassette Case (Full),
+        WorldStaticModel = dfmp.RussianMixVol1CassetteCaseFull,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol1JacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_RussianMixVol1,
+        DisplayName = Russian Mix Vol1 Jacket (Empty),
+        WorldStaticModel = dfmp.RussianMixVol1JacketEmpty,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol1JacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_RussianMixVol1,
+        DisplayName = Russian Mix Vol1 Jacket (Full),
+        WorldStaticModel = dfmp.RussianMixVol1JacketFull,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol1CDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_RussianMixVol1,
+        DisplayName = Russian Mix Vol1 CD Cover (Empty),
+        WorldStaticModel = dfmp.RussianMixVol1CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol1CDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_RussianMixVol1,
+        DisplayName = Russian Mix Vol1 CD Cover (Full),
+        WorldStaticModel = dfmp.RussianMixVol1CDCoverFull,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol2Cassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette_dfmp_RussianMixVol2,
+        DisplayName = Russian Mix Vol2 (Cassette),
+        WorldStaticModel = dfmp.RussianMixVol2Cassette,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol2Vinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl_dfmp_RussianMixVol2,
+        DisplayName = Russian Mix Vol2 (Vinyl),
+        WorldStaticModel = dfmp.RussianMixVol2Vinyl,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol2CD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Russian Mix Vol2 (CD),
+        WorldStaticModel = dfmp.RussianMixVol2CD,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol2CassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_RussianMixVol2,
+        DisplayName = Russian Mix Vol2 Cassette Case (Empty),
+        WorldStaticModel = dfmp.RussianMixVol2CassetteCaseEmpty,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol2CassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_RussianMixVol2,
+        DisplayName = Russian Mix Vol2 Cassette Case (Full),
+        WorldStaticModel = dfmp.RussianMixVol2CassetteCaseFull,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol2JacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_RussianMixVol2,
+        DisplayName = Russian Mix Vol2 Jacket (Empty),
+        WorldStaticModel = dfmp.RussianMixVol2JacketEmpty,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol2JacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_RussianMixVol2,
+        DisplayName = Russian Mix Vol2 Jacket (Full),
+        WorldStaticModel = dfmp.RussianMixVol2JacketFull,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol2CDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_RussianMixVol2,
+        DisplayName = Russian Mix Vol2 CD Cover (Empty),
+        WorldStaticModel = dfmp.RussianMixVol2CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item RussianMixVol2CDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_RussianMixVol2,
+        DisplayName = Russian Mix Vol2 CD Cover (Full),
+        WorldStaticModel = dfmp.RussianMixVol2CDCoverFull,
+        CanSpawn = true,
+    }
+
+    item SectorGazaCassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette_dfmp_SectorGaza,
+        DisplayName = Sector Gaza (Cassette),
+        WorldStaticModel = dfmp.SectorGazaCassette,
+        CanSpawn = true,
+    }
+
+    item SectorGazaVinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl_dfmp_SectorGaza,
+        DisplayName = Sector Gaza (Vinyl),
+        WorldStaticModel = dfmp.SectorGazaVinyl,
+        CanSpawn = true,
+    }
+
+    item SectorGazaCD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Sector Gaza (CD),
+        WorldStaticModel = dfmp.SectorGazaCD,
+        CanSpawn = true,
+    }
+
+    item SectorGazaCassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_SectorGaza,
+        DisplayName = Sector Gaza Cassette Case (Empty),
+        WorldStaticModel = dfmp.SectorGazaCassetteCaseEmpty,
+        CanSpawn = true,
+    }
+
+    item SectorGazaCassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_SectorGaza,
+        DisplayName = Sector Gaza Cassette Case (Full),
+        WorldStaticModel = dfmp.SectorGazaCassetteCaseFull,
+        CanSpawn = true,
+    }
+
+    item SectorGazaJacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_SectorGaza,
+        DisplayName = Sector Gaza Jacket (Empty),
+        WorldStaticModel = dfmp.SectorGazaJacketEmpty,
+        CanSpawn = true,
+    }
+
+    item SectorGazaJacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_SectorGaza,
+        DisplayName = Sector Gaza Jacket (Full),
+        WorldStaticModel = dfmp.SectorGazaJacketFull,
+        CanSpawn = true,
+    }
+
+    item SectorGazaCDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_SectorGaza,
+        DisplayName = Sector Gaza CD Cover (Empty),
+        WorldStaticModel = dfmp.SectorGazaCDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item SectorGazaCDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_SectorGaza,
+        DisplayName = Sector Gaza CD Cover (Full),
+        WorldStaticModel = dfmp.SectorGazaCDCoverFull,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol1Cassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette_dfmp_SeregaPiratVol1,
+        DisplayName = Serega Pirat Vol1 (Cassette),
+        WorldStaticModel = dfmp.SeregaPiratVol1Cassette,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol1Vinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl_dfmp_SeregaPiratVol1,
+        DisplayName = Serega Pirat Vol1 (Vinyl),
+        WorldStaticModel = dfmp.SeregaPiratVol1Vinyl,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol1CD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Serega Pirat Vol1 (CD),
+        WorldStaticModel = dfmp.SeregaPiratVol1CD,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol1CassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_SeregaPiratVol1,
+        DisplayName = Serega Pirat Vol1 Cassette Case (Empty),
+        WorldStaticModel = dfmp.SeregaPiratVol1CassetteCaseEmpty,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol1CassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_SeregaPiratVol1,
+        DisplayName = Serega Pirat Vol1 Cassette Case (Full),
+        WorldStaticModel = dfmp.SeregaPiratVol1CassetteCaseFull,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol1JacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_SeregaPiratVol1,
+        DisplayName = Serega Pirat Vol1 Jacket (Empty),
+        WorldStaticModel = dfmp.SeregaPiratVol1JacketEmpty,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol1JacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_SeregaPiratVol1,
+        DisplayName = Serega Pirat Vol1 Jacket (Full),
+        WorldStaticModel = dfmp.SeregaPiratVol1JacketFull,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol1CDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_SeregaPiratVol1,
+        DisplayName = Serega Pirat Vol1 CD Cover (Empty),
+        WorldStaticModel = dfmp.SeregaPiratVol1CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol1CDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_SeregaPiratVol1,
+        DisplayName = Serega Pirat Vol1 CD Cover (Full),
+        WorldStaticModel = dfmp.SeregaPiratVol1CDCoverFull,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol2Cassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette_dfmp_SeregaPiratVol2,
+        DisplayName = Serega Pirat Vol2 (Cassette),
+        WorldStaticModel = dfmp.SeregaPiratVol2Cassette,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol2Vinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl_dfmp_SeregaPiratVol2,
+        DisplayName = Serega Pirat Vol2 (Vinyl),
+        WorldStaticModel = dfmp.SeregaPiratVol2Vinyl,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol2CD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Serega Pirat Vol2 (CD),
+        WorldStaticModel = dfmp.SeregaPiratVol2CD,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol2CassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_SeregaPiratVol2,
+        DisplayName = Serega Pirat Vol2 Cassette Case (Empty),
+        WorldStaticModel = dfmp.SeregaPiratVol2CassetteCaseEmpty,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol2CassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_SeregaPiratVol2,
+        DisplayName = Serega Pirat Vol2 Cassette Case (Full),
+        WorldStaticModel = dfmp.SeregaPiratVol2CassetteCaseFull,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol2JacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_SeregaPiratVol2,
+        DisplayName = Serega Pirat Vol2 Jacket (Empty),
+        WorldStaticModel = dfmp.SeregaPiratVol2JacketEmpty,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol2JacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_SeregaPiratVol2,
+        DisplayName = Serega Pirat Vol2 Jacket (Full),
+        WorldStaticModel = dfmp.SeregaPiratVol2JacketFull,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol2CDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_SeregaPiratVol2,
+        DisplayName = Serega Pirat Vol2 CD Cover (Empty),
+        WorldStaticModel = dfmp.SeregaPiratVol2CDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratVol2CDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_SeregaPiratVol2,
+        DisplayName = Serega Pirat Vol2 CD Cover (Full),
+        WorldStaticModel = dfmp.SeregaPiratVol2CDCoverFull,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratandOtherCassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette_dfmp_SeregaPiratandOther,
+        DisplayName = Serega Pirat and Other (Cassette),
+        WorldStaticModel = dfmp.SeregaPiratandOtherCassette,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratandOtherVinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl_dfmp_SeregaPiratandOther,
+        DisplayName = Serega Pirat and Other (Vinyl),
+        WorldStaticModel = dfmp.SeregaPiratandOtherVinyl,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratandOtherCD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Serega Pirat and Other (CD),
+        WorldStaticModel = dfmp.SeregaPiratandOtherCD,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratandOtherCassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_SeregaPiratandOther,
+        DisplayName = Serega Pirat and Other Cassette Case (Empty),
+        WorldStaticModel = dfmp.SeregaPiratandOtherCassetteCaseEmpty,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratandOtherCassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_SeregaPiratandOther,
+        DisplayName = Serega Pirat and Other Cassette Case (Full),
+        WorldStaticModel = dfmp.SeregaPiratandOtherCassetteCaseFull,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratandOtherJacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_SeregaPiratandOther,
+        DisplayName = Serega Pirat and Other Jacket (Empty),
+        WorldStaticModel = dfmp.SeregaPiratandOtherJacketEmpty,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratandOtherJacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_SeregaPiratandOther,
+        DisplayName = Serega Pirat and Other Jacket (Full),
+        WorldStaticModel = dfmp.SeregaPiratandOtherJacketFull,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratandOtherCDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_SeregaPiratandOther,
+        DisplayName = Serega Pirat and Other CD Cover (Empty),
+        WorldStaticModel = dfmp.SeregaPiratandOtherCDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item SeregaPiratandOtherCDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_SeregaPiratandOther,
+        DisplayName = Serega Pirat and Other CD Cover (Full),
+        WorldStaticModel = dfmp.SeregaPiratandOtherCDCoverFull,
+        CanSpawn = true,
+    }
+
+    item SpongeBobCassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette_dfmp_SpongeBob,
+        DisplayName = Sponge Bob (Cassette),
+        WorldStaticModel = dfmp.SpongeBobCassette,
+        CanSpawn = true,
+    }
+
+    item SpongeBobVinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl_dfmp_SpongeBob,
+        DisplayName = Sponge Bob (Vinyl),
+        WorldStaticModel = dfmp.SpongeBobVinyl,
+        CanSpawn = true,
+    }
+
+    item SpongeBobCD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Sponge Bob (CD),
+        WorldStaticModel = dfmp.SpongeBobCD,
+        CanSpawn = true,
+    }
+
+    item SpongeBobCassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_SpongeBob,
+        DisplayName = Sponge Bob Cassette Case (Empty),
+        WorldStaticModel = dfmp.SpongeBobCassetteCaseEmpty,
+        CanSpawn = true,
+    }
+
+    item SpongeBobCassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_SpongeBob,
+        DisplayName = Sponge Bob Cassette Case (Full),
+        WorldStaticModel = dfmp.SpongeBobCassetteCaseFull,
+        CanSpawn = true,
+    }
+
+    item SpongeBobJacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_SpongeBob,
+        DisplayName = Sponge Bob Jacket (Empty),
+        WorldStaticModel = dfmp.SpongeBobJacketEmpty,
+        CanSpawn = true,
+    }
+
+    item SpongeBobJacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_SpongeBob,
+        DisplayName = Sponge Bob Jacket (Full),
+        WorldStaticModel = dfmp.SpongeBobJacketFull,
+        CanSpawn = true,
+    }
+
+    item SpongeBobCDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_SpongeBob,
+        DisplayName = Sponge Bob CD Cover (Empty),
+        WorldStaticModel = dfmp.SpongeBobCDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item SpongeBobCDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_SpongeBob,
+        DisplayName = Sponge Bob CD Cover (Full),
+        WorldStaticModel = dfmp.SpongeBobCDCoverFull,
+        CanSpawn = true,
+    }
+
+    item UmamusumeCassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette_dfmp_Umamusume,
+        DisplayName = Umamusume (Cassette),
+        WorldStaticModel = dfmp.UmamusumeCassette,
+        CanSpawn = true,
+    }
+
+    item UmamusumeVinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl_dfmp_Umamusume,
+        DisplayName = Umamusume (Vinyl),
+        WorldStaticModel = dfmp.UmamusumeVinyl,
+        CanSpawn = true,
+    }
+
+    item UmamusumeCD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = Umamusume (CD),
+        WorldStaticModel = dfmp.UmamusumeCD,
+        CanSpawn = true,
+    }
+
+    item UmamusumeCassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_Umamusume,
+        DisplayName = Umamusume Cassette Case (Empty),
+        WorldStaticModel = dfmp.UmamusumeCassetteCaseEmpty,
+        CanSpawn = true,
+    }
+
+    item UmamusumeCassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_Umamusume,
+        DisplayName = Umamusume Cassette Case (Full),
+        WorldStaticModel = dfmp.UmamusumeCassetteCaseFull,
+        CanSpawn = true,
+    }
+
+    item UmamusumeJacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_Umamusume,
+        DisplayName = Umamusume Jacket (Empty),
+        WorldStaticModel = dfmp.UmamusumeJacketEmpty,
+        CanSpawn = true,
+    }
+
+    item UmamusumeJacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_Umamusume,
+        DisplayName = Umamusume Jacket (Full),
+        WorldStaticModel = dfmp.UmamusumeJacketFull,
+        CanSpawn = true,
+    }
+
+    item UmamusumeCDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_Umamusume,
+        DisplayName = Umamusume CD Cover (Empty),
+        WorldStaticModel = dfmp.UmamusumeCDCoverEmpty,
+        CanSpawn = true,
+    }
+
+    item UmamusumeCDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_Umamusume,
+        DisplayName = Umamusume CD Cover (Full),
+        WorldStaticModel = dfmp.UmamusumeCDCoverFull,
+        CanSpawn = true,
+    }
+
+}

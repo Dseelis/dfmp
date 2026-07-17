@@ -1,0 +1,1155 @@
+module dfmp
+{
+    sound dfmpAnimeMix01
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA106EvangelionOSTFlyMetotheMoon.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix02
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA207Fukkireta.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix03
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA308GurrenLagannOP1.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix04
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA409HaiYo.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix05
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA510HelloMyWorld.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix06
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA611KenshiYonezuKICKBACK.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix07
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA712KuusouMesorogiwi.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix08
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA813PeaceSign.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix09
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA914RenaiCirculation.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix10
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA1015SeishunButaYarouFukashiginoCart.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix11
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA1116Step.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix12
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA1217Tank.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix13
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA1318TetradsmertiOP1.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix14
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA1419TetradsmertiPianino.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix15
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA1520TheDay.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix16
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA1621ThePeggiesKiminoSei.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix17
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA1722TinyLight.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix18
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA1823ViewtifulDays.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix19
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA1924WonderfulWonderWorld.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix20
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA2025YOASOBIIDOL.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix21
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA2126YokoTakahashiACruelAngelsThesis.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix22
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA2227YumenoTsuzuki.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix23
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA2301BakaMitai.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix24
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA2402BloodyStream.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix25
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA2503CrossingField.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix26
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA2604DoraDoradura.ogg, distanceMax = 30, }
+    }
+    sound dfmpAnimeMix27
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/AnimeMix/A-Side/AnimeMixSideA2705Dororo.ogg, distanceMax = 30, }
+    }
+    sound dfmpKessokuBand01
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/KessokuBand/A-Side/KessokuBandSideA104KessokubandHitoribocchiTokyo.ogg, distanceMax = 30, }
+    }
+    sound dfmpKessokuBand02
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/KessokuBand/A-Side/KessokuBandSideA205KessokubandIcantsingalovesong.ogg, distanceMax = 30, }
+    }
+    sound dfmpKessokuBand03
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/KessokuBand/A-Side/KessokuBandSideA306KessokubandIwontforget.ogg, distanceMax = 30, }
+    }
+    sound dfmpKessokuBand04
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/KessokuBand/A-Side/KessokuBandSideA407KessokubandIfIcouldbecomeacon.ogg, distanceMax = 30, }
+    }
+    sound dfmpKessokuBand05
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/KessokuBand/A-Side/KessokuBandSideA508KessokubandKarakara.ogg, distanceMax = 30, }
+    }
+    sound dfmpKessokuBand06
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/KessokuBand/A-Side/KessokuBandSideA609KessokubandRollingrockmorning.ogg, distanceMax = 30, }
+    }
+    sound dfmpKessokuBand07
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/KessokuBand/A-Side/KessokuBandSideA710KessokubandSecretbase.ogg, distanceMax = 30, }
+    }
+    sound dfmpKessokuBand08
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/KessokuBand/A-Side/KessokuBandSideA811KessokubandSeisyunComplex.ogg, distanceMax = 30, }
+    }
+    sound dfmpKessokuBand09
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/KessokuBand/A-Side/KessokuBandSideA912KessokubandThatband.ogg, distanceMax = 30, }
+    }
+    sound dfmpKessokuBand10
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/KessokuBand/A-Side/KessokuBandSideA1013KessokubandThelittlesea.ogg, distanceMax = 30, }
+    }
+    sound dfmpKessokuBand11
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/KessokuBand/A-Side/KessokuBandSideA1114KessokubandWhatiswrongwith.ogg, distanceMax = 30, }
+    }
+    sound dfmpKessokuBand12
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/KessokuBand/A-Side/KessokuBandSideA1201KessokubandDistortion.ogg, distanceMax = 30, }
+    }
+    sound dfmpKessokuBand13
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/KessokuBand/A-Side/KessokuBandSideA1302KessokubandFlashbacker.ogg, distanceMax = 30, }
+    }
+    sound dfmpKessokuBand14
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/KessokuBand/A-Side/KessokuBandSideA1403KessokubandGuitarLonelinessa.ogg, distanceMax = 30, }
+    }
+    sound dfmpLinkinPark01
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/LinkinPark/A-Side/LinkinParkSideA103CrawlingLinkinPark.ogg, distanceMax = 30, }
+    }
+    sound dfmpLinkinPark02
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/LinkinPark/A-Side/LinkinParkSideA204IntheEndLinkinPark.ogg, distanceMax = 30, }
+    }
+    sound dfmpLinkinPark03
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/LinkinPark/A-Side/LinkinParkSideA305MyDecemberLinkinPark.ogg, distanceMax = 30, }
+    }
+    sound dfmpLinkinPark04
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/LinkinPark/A-Side/LinkinParkSideA406PointsofAuthorityLinkinPark.ogg, distanceMax = 30, }
+    }
+    sound dfmpLinkinPark05
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/LinkinPark/A-Side/LinkinParkSideA501BluesForMrT.ogg, distanceMax = 30, }
+    }
+    sound dfmpLinkinPark06
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/LinkinPark/A-Side/LinkinParkSideA602BudMeetsBob.ogg, distanceMax = 30, }
+    }
+    sound dfmpMolchatDoma01
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/MolchatDoma/A-Side/MolchatDomaSideA105MolchatDomaKletkaV2.ogg, distanceMax = 30, }
+    }
+    sound dfmpMolchatDoma02
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/MolchatDoma/A-Side/MolchatDomaSideA206NaDnebyMolchatDoma.ogg, distanceMax = 30, }
+    }
+    sound dfmpMolchatDoma03
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/MolchatDoma/A-Side/MolchatDomaSideA307PrognozbyMolchatDoma.ogg, distanceMax = 30, }
+    }
+    sound dfmpMolchatDoma04
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/MolchatDoma/A-Side/MolchatDomaSideA408SudnobyMolchatDoma.ogg, distanceMax = 30, }
+    }
+    sound dfmpMolchatDoma05
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/MolchatDoma/A-Side/MolchatDomaSideA509TantsevatbyMolchatDoma.ogg, distanceMax = 30, }
+    }
+    sound dfmpMolchatDoma06
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/MolchatDoma/A-Side/MolchatDomaSideA610ToskabyMolchatDoma.ogg, distanceMax = 30, }
+    }
+    sound dfmpMolchatDoma07
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/MolchatDoma/A-Side/MolchatDomaSideA711VolnybyMolchatDoma.ogg, distanceMax = 30, }
+    }
+    sound dfmpMolchatDoma08
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/MolchatDoma/A-Side/MolchatDomaSideA801FilmybyMolchatDoma.ogg, distanceMax = 30, }
+    }
+    sound dfmpMolchatDoma09
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/MolchatDoma/A-Side/MolchatDomaSideA902KletkabyMolchatDoma.ogg, distanceMax = 30, }
+    }
+    sound dfmpMolchatDoma10
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/MolchatDoma/A-Side/MolchatDomaSideA1003KommersantybyMolchatDoma.ogg, distanceMax = 30, }
+    }
+    sound dfmpMolchatDoma11
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/MolchatDoma/A-Side/MolchatDomaSideA1104MolchatDomaEmalirovannoesudn.ogg, distanceMax = 30, }
+    }
+    sound dfmpPersona301
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/Persona3/A-Side/Persona3SideA102Persona3ReloadFullMoonFullLife.ogg, distanceMax = 30, }
+    }
+    sound dfmpPersona302
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/Persona3/A-Side/Persona3SideA203Persona3ReloadUnavoidableBattle.ogg, distanceMax = 30, }
+    }
+    sound dfmpPersona303
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/Persona3/A-Side/Persona3SideA304Persona3ReloadWhenTheMoonReachin.ogg, distanceMax = 30, }
+    }
+    sound dfmpPersona304
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/Persona3/A-Side/Persona3SideA401Persona3ReloadChangingSeasons.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol101
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA103BunkerBluesMETROOST.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol102
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA204CelldwellerShapeshifter.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol103
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA305DjoEndofBeginning.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol104
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA406GunsnRoses.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol105
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA507JawnyHoneypie.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol106
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA608KommSusserTod.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol107
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA709LastChristmas.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol108
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA810NightcoreSweetLittleBumbleb.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol109
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA911NirvanaDrainYou.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol110
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA1012PlayArrowChipiChipiChapaCh.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol111
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA1113RadioheadNoSuprises.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol112
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA1214RadioheadElectioneering.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol113
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA1315RadioheadExitMusicForaFilm.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol114
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA1416Reolnqrse.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol115
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA1517RoaroftheJungleDragon.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol116
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA1601BanditRadioSTALKEROST.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol117
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol1/A-Side/RandomMixVol1SideA1702BoomBoomBoomBoom.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol201
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA103SakuraIkimonoGakari.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol202
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA204StormaeAlenaDast.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol203
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA305StressedGlob.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol204
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA406StylesofBeyondNineThou.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol205
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA507SurfCurseFreaks.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol206
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA608TellMeWhy.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol207
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA709TincupLost.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol208
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA810TriDnyaDozhdyaOtpuskay.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol209
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA911TriDnyaVozhdyaOtsosat.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol210
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA1012UniversalCollapse.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol211
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA1113burningdesires.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol212
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA1214comealive.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol213
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA1315fishingvillagerust.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol214
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA1416irisout.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol215
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA1517yuanse.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol216
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA1601RockIAmRock.ogg, distanceMax = 30, }
+    }
+    sound dfmpRandomMixVol217
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RandomMixVol2/A-Side/RandomMixVol2SideA1702RunninginThe90s.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol101
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA102ArthurPirozhkovJazvezda.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol102
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA203ArthurPirozhkovJaneAndrey.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol103
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA304ArthurPirozhkovKakCelentan.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol104
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA405KSBmuzicDEP.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol105
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA506KSBmuzicWYAvytacshu.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol106
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA607MarkBernesTemnayanoch.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol107
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA708MellSherand5opkaLongAylend.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol108
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA809ModernTalkingCheriCheriLad.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol109
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA910NerviPoteri.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol110
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA1011Nervitochtomnenuzno.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol111
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA1112PotapiNastyaCHumachechaya.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol112
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA1213PotapiNastyaMyotmenyaemko.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol113
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA1314SatiKazanovaDoRassveta.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol114
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA1415SindromVosmiklassnikaKero.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol115
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA1516STINTEtonemoyvayb.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol116
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol1/A-Side/RussianMixVol1SideA1601ArthurPirozhkovChica.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol201
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol2/A-Side/RussianMixVol2SideA103Uma2rmanKazhetsya.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol202
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol2/A-Side/RussianMixVol2SideA204Uma2rmanPapinydochki.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol203
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol2/A-Side/RussianMixVol2SideA305ValentinStrykaloNasheleto.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol204
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol2/A-Side/RussianMixVol2SideA406ValentinStrykaloYAbyuzhens.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol205
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol2/A-Side/RussianMixVol2SideA507VirusPoproshutebya.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol206
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol2/A-Side/RussianMixVol2SideA608VisokosnyygodTihiyogonek.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol207
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol2/A-Side/RussianMixVol2SideA709VolheyMilomaterishsya.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol208
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol2/A-Side/RussianMixVol2SideA810YArcheSolntsaNeHochu.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol209
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol2/A-Side/RussianMixVol2SideA911YUliyaSavichevaEslivserdts.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol210
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol2/A-Side/RussianMixVol2SideA1012forestdumpKlanovayazhizn.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol211
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol2/A-Side/RussianMixVol2SideA1113pivzavod2077Fotografiruyu.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol212
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol2/A-Side/RussianMixVol2SideA1214konecsolnechnyhdnejfinala.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol213
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol2/A-Side/RussianMixVol2SideA1315ssshhhiiitttvosem.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol214
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol2/A-Side/RussianMixVol2SideA1401SmetanaBandpitplakat.ogg, distanceMax = 30, }
+    }
+    sound dfmpRussianMixVol215
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/RussianMixVol2/A-Side/RussianMixVol2SideA1502Smetanabandkogdamoyadevus.ogg, distanceMax = 30, }
+    }
+    sound dfmpSectorGaza01
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SectorGaza/A-Side/SectorGazaSideA102SektorGazaBomzh.ogg, distanceMax = 30, }
+    }
+    sound dfmpSectorGaza02
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SectorGaza/A-Side/SectorGazaSideA203SektorGazaDemobilizatsiya.ogg, distanceMax = 30, }
+    }
+    sound dfmpSectorGaza03
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SectorGaza/A-Side/SectorGazaSideA304SektorGazaLirika.ogg, distanceMax = 30, }
+    }
+    sound dfmpSectorGaza04
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SectorGaza/A-Side/SectorGazaSideA405SektorGazaPoradomoy.ogg, distanceMax = 30, }
+    }
+    sound dfmpSectorGaza05
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SectorGaza/A-Side/SectorGazaSideA501SektorGaza30let.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol101
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA104SeregaPiratAnimeOpening.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol102
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA205SeregaPiratApelsin.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol103
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA306SeregaPiratDedoded.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol104
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA407SeregaPiratdengimenyayut.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol105
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA508SeregaPiratGeroin.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol106
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA609SeregaPiratGimn.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol107
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA710SeregaPiratGimndahaka.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol108
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA811SeregaPiratHeytery.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol109
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA912SeregaPiratIzvinisegodnya.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol110
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA1013SeregaPiratKachalka.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol111
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA1114SeregaPiratKartiny.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol112
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA1215SeregaPiratMasha.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol113
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA1316SeregaPiratMoybayk.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol114
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA1417SeregaPiratMoyslark.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol115
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA1518SeregaPiratMoytopor.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol116
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA1619SeregaPiratNyizvinite.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol117
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA1720SeregaPiratNalune.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol118
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA1801SeregaPirat911.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol119
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA1902SeregaPiratAti.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol120
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA2003SeregaPiratAMFP.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol121
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol1/A-Side/SeregaPiratVol1SideA2104SeregaPiratProstiyanezna.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol201
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA103SeregaPiratNugdemoyanoga.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol202
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA204SeregaPiratNuichtoyavor.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol203
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA305SeregaPiratPesnyaafroamer.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol204
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA406SeregaPiratPesnyakitaytse.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol205
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA507SeregaPiratPochemunefanat.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol206
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA608SeregaPiratRasselkrou.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol207
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA709SeregaPiratTilt.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol208
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA810SeregaPiratTpnaame.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol209
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA911SeregaPiratVEtoyTrave.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol210
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA1012SeregaPiratVaybmen.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol211
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA1113SeregaPiratVnutrimenyavo.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol212
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA1214SeregaPiratWorldofDota.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol213
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA1315SeregaPiratYaetoya.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol214
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA1416SeregaPiratYApodnimayugo.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol215
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA1517SeregaPiratYAshizoid.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol216
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA1618SeregaPiratYAsvoruyubabk.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol217
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA1719SeregaPiratYavzletayu.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol218
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA1820SeregaPiratBarikaderkakz.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol219
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA1901SeregaPiratNataliya.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratVol220
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratVol2/A-Side/SeregaPiratVol2SideA2002SeregaPiratNovogodnyaya.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratandOther01
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratandOther/A-Side/SeregaPiratandOtherSideA102SeregaPiratLidaCHSV.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratandOther02
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratandOther/A-Side/SeregaPiratandOtherSideA203SeregaPiratMutantyizk.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratandOther03
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratandOther/A-Side/SeregaPiratandOtherSideA304SeregaPiratZombiapoka.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratandOther04
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratandOther/A-Side/SeregaPiratandOtherSideA405LidaSeregaPiratchsv.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratandOther05
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratandOther/A-Side/SeregaPiratandOtherSideA506mzlffSeregaPiratYAneb.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratandOther06
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratandOther/A-Side/SeregaPiratandOtherSideA607DronXDPoslednijBloudz.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratandOther07
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratandOther/A-Side/SeregaPiratandOtherSideA708Mayzenbergvitalyuobma.ogg, distanceMax = 30, }
+    }
+    sound dfmpSeregaPiratandOther08
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SeregaPiratandOther/A-Side/SeregaPiratandOtherSideA801SeregaPiratKijinKarty.ogg, distanceMax = 30, }
+    }
+    sound dfmpSpongeBob01
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SpongeBob/A-Side/SpongeBobSideA103SpongeBobKrastiKrabsOST1.ogg, distanceMax = 30, }
+    }
+    sound dfmpSpongeBob02
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SpongeBob/A-Side/SpongeBobSideA204SpongeBobKrastiKrabsOST2.ogg, distanceMax = 30, }
+    }
+    sound dfmpSpongeBob03
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SpongeBob/A-Side/SpongeBobSideA305SpongeBobPogonya.ogg, distanceMax = 30, }
+    }
+    sound dfmpSpongeBob04
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SpongeBob/A-Side/SpongeBobSideA406SpongeBobTitry.ogg, distanceMax = 30, }
+    }
+    sound dfmpSpongeBob05
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SpongeBob/A-Side/SpongeBobSideA507SpongeBobZastavka.ogg, distanceMax = 30, }
+    }
+    sound dfmpSpongeBob06
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SpongeBob/A-Side/SpongeBobSideA601SpongeBobBytovuhaOST1.ogg, distanceMax = 30, }
+    }
+    sound dfmpSpongeBob07
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/SpongeBob/A-Side/SpongeBobSideA702SpongeBobBytovuhaOST2.ogg, distanceMax = 30, }
+    }
+    sound dfmpUmamusume01
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/Umamusume/A-Side/UmamusumeSideA102UmamusumeEgaonoTreasure.ogg, distanceMax = 30, }
+    }
+    sound dfmpUmamusume02
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/Umamusume/A-Side/UmamusumeSideA203UmamusumeUNLIMITEDIMPACT.ogg, distanceMax = 30, }
+    }
+    sound dfmpUmamusume03
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/Umamusume/A-Side/UmamusumeSideA304Umamusume2ED.ogg, distanceMax = 30, }
+    }
+    sound dfmpUmamusume04
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/Umamusume/A-Side/UmamusumeSideA401UmamusumeBokuranoburubadodeizu.ogg, distanceMax = 30, }
+    }
+}

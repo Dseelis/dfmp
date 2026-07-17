@@ -1,41 +1,40 @@
 pcall(require, "shared/contracts/NMMediaContract")
 require "NMAlbumPackBuilder"
-require "dfmp_Album_SPVol1"
-require "dfmp_Album_SPVol2"
-require "dfmp_Album_SPVol3"
-require "dfmp_Album_KB"
-require "dfmp_Album_Anime"
-require "dfmp_Album_MD"
-require "dfmp_Album_P3"
-require "dfmp_Album_Uma"
-require "dfmp_Album_SG"
-require "dfmp_Album_RU1"
-require "dfmp_Album_RU2"
-require "dfmp_Album_SB"
-require "dfmp_Album_Mix1"
-require "dfmp_Album_Mix2"
-require "dfmp_Album_LP"
+require "dfmp_Album_AnimeMix"
+require "dfmp_Album_KessokuBand"
+require "dfmp_Album_LinkinPark"
+require "dfmp_Album_MolchatDoma"
+require "dfmp_Album_Persona3"
+require "dfmp_Album_RandomMixVol1"
+require "dfmp_Album_RandomMixVol2"
+require "dfmp_Album_RussianMixVol1"
+require "dfmp_Album_RussianMixVol2"
+require "dfmp_Album_SectorGaza"
+require "dfmp_Album_SeregaPiratVol1"
+require "dfmp_Album_SeregaPiratVol2"
+require "dfmp_Album_SeregaPiratandOther"
+require "dfmp_Album_SpongeBob"
+require "dfmp_Album_Umamusume"
 
 local PACK_MODULE = "dfmp"
 
 NMAlbumPackBuilder.registerAlbumPack({
     module = PACK_MODULE,
     albums = {
-        dfmpAlbum_SPVol1,
-        dfmpAlbum_SPVol2,
-        dfmpAlbum_SPVol3,
-        dfmpAlbum_KB,
-        dfmpAlbum_Anime,
-        dfmpAlbum_MD,
-        dfmpAlbum_P3,
-        dfmpAlbum_Uma,
-        dfmpAlbum_SG,
-        dfmpAlbum_RU1,
-        dfmpAlbum_RU2,
-        dfmpAlbum_SB,
-        dfmpAlbum_Mix1,
-        dfmpAlbum_Mix2,
-        dfmpAlbum_LP,
+        NMdfmpAlbum_AnimeMix,
+        NMdfmpAlbum_KessokuBand,
+        NMdfmpAlbum_LinkinPark,
+        NMdfmpAlbum_MolchatDoma,
+        NMdfmpAlbum_Persona3,
+        NMdfmpAlbum_RandomMixVol1,
+        NMdfmpAlbum_RandomMixVol2,
+        NMdfmpAlbum_RussianMixVol1,
+        NMdfmpAlbum_RussianMixVol2,
+        NMdfmpAlbum_SectorGaza,
+        NMdfmpAlbum_SeregaPiratVol1,
+        NMdfmpAlbum_SeregaPiratVol2,
+        NMdfmpAlbum_SeregaPiratandOther,
+        NMdfmpAlbum_SpongeBob,
+        NMdfmpAlbum_Umamusume,
     },
 })
-
