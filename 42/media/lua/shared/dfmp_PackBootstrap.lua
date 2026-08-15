@@ -3,6 +3,7 @@ require "NMAlbumPackBuilder"
 require "dfmp_Album_AnimeMix"
 require "dfmp_Album_KessokuBand"
 require "dfmp_Album_LinkinPark"
+require "dfmp_Album_TheManWhoSoldTheWorld"
 require "dfmp_Album_MolchatDoma"
 require "dfmp_Album_Persona3"
 require "dfmp_Album_RandomMixVol1"
@@ -25,6 +26,7 @@ NMAlbumPackBuilder.registerAlbumPack({
         NMdfmpAlbum_KessokuBand,
         NMdfmpAlbum_LinkinPark,
         NMdfmpAlbum_MolchatDoma,
+        NMdfmpAlbum_TheManWhoSoldTheWorld,
         NMdfmpAlbum_Persona3,
         NMdfmpAlbum_RandomMixVol1,
         NMdfmpAlbum_RandomMixVol2,

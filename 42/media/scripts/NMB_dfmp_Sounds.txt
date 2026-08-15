@@ -1146,6 +1146,18 @@ module dfmp
         master = Music,
         clip { file = media/sound/dfmp/Umamusume/A-Side/UmamusumeSideA304Umamusume2ED.ogg, distanceMax = 30, }
     }
+    sound dfmpTheManWhoSoldTheWorld01
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/TheManWhoSoldTheWorld/A-Side/TheManWhoSoldTheWorldSideA1TheManWhoSoldTheWorld.ogg, distanceMax = 30, }
+    }
+    sound dfmpTNOMIX01
+    {
+        category = Music,
+        master = Music,
+        clip { file = media/sound/dfmp/TheManWhoSoldTheWorld/A-Side/TheManWhoSoldTheWorldSideA1SiliconDreamsJazz.ogg, distanceMax = 30, }
+    }
     sound dfmpUmamusume04
     {
         category = Music,

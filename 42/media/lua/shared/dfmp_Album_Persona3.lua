@@ -1,4 +1,3 @@
-
 NMdfmpAlbum_Persona3 = {
     id = "Persona3",
     title = "Persona 3",

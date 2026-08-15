@@ -1,5 +1,3 @@
-
-
 NMdfmpAlbum_KessokuBand = {
     id = "KessokuBand",
     title = "Kessoku Band",

@@ -26,6 +26,104 @@ module dfmp
         WorldStaticModel = dfmp.AnimeMixVinyl,
         CanSpawn = true,
     }
+    item TheManWhoSoldTheWorldCassette
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.02,
+        Icon = NM_Cassette_dfmp_TheManWhoSoldTheWorld,
+        DisplayName = TheManWhoSoldTheWorld (Cassette),
+        WorldStaticModel = dfmp.SharedCassetteWorldNMCassettedfmpTheMa78F39706,
+        CanSpawn = true,
+    }
+
+    item TheManWhoSoldTheWorldVinyl
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_Vinyl_dfmp_TheManWhoSoldTheWorld,
+        DisplayName = TheManWhoSoldTheWorld (Vinyl),
+        WorldStaticModel = dfmp.SharedVinylWorldNMVinyldfmpTheManWh1B066109,
+        CanSpawn = true,
+    }
+
+    item TheManWhoSoldTheWorldCD
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.03,
+        Icon = NM_CD,
+        DisplayName = TheManWhoSoldTheWorld (CD),
+        WorldStaticModel = dfmp.SharedCDWorldNMCD2705DB22,
+        CanSpawn = true,
+    }
+
+    item TheManWhoSoldTheWorldCassetteCaseEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_TheManWhoSoldTheWorld,
+        DisplayName = TheManWhoSoldTheWorld Cassette Case (Empty),
+        WorldStaticModel = dfmp.SharedCassetteCaseWorldNMCassetteCoverdfmp0B1633BC,
+        CanSpawn = true,
+    }
+
+    item TheManWhoSoldTheWorldCassetteCaseFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_Case_dfmp_TheManWhoSoldTheWorld,
+        DisplayName = TheManWhoSoldTheWorld Cassette Case (Full),
+        WorldStaticModel = dfmp.SharedCassetteCaseWorldNMCassetteCoverdfmp0B1633BC,
+        CanSpawn = true,
+    }
+
+    item TheManWhoSoldTheWorldJacketEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_TheManWhoSoldTheWorld,
+        DisplayName = TheManWhoSoldTheWorld Jacket (Empty),
+        WorldStaticModel = dfmp.SharedJacketWorldNMCoverdfmpTheManWhAC9D06C0,
+        CanSpawn = true,
+    }
+
+    item TheManWhoSoldTheWorldJacketFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.12,
+        Icon = NM_Jacket_dfmp_TheManWhoSoldTheWorld,
+        DisplayName = TheManWhoSoldTheWorld Jacket (Full),
+        WorldStaticModel = dfmp.SharedJacketWorldNMCoverdfmpTheManWhAC9D06C0,
+        CanSpawn = true,
+    }
+
+    item TheManWhoSoldTheWorldCDCoverEmpty
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_TheManWhoSoldTheWorld,
+        DisplayName = TheManWhoSoldTheWorld CD Cover (Empty),
+        WorldStaticModel = dfmp.SharedCDCoverWorldNMCDCoverdfmpTheManFD807C51,
+        CanSpawn = true,
+    }
+
+    item TheManWhoSoldTheWorldCDCoverFull
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.10,
+        Icon = NM_CDCover_dfmp_TheManWhoSoldTheWorld,
+        DisplayName = TheManWhoSoldTheWorld CD Cover (Full),
+        WorldStaticModel = dfmp.SharedCDCoverWorldNMCDCoverdfmpTheManFD807C51,
+        CanSpawn = true,
+    }
 
     item AnimeMixCD
     {

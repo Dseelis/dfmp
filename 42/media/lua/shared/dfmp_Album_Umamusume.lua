@@ -1,5 +1,3 @@
-
-
 NMdfmpAlbum_Umamusume = {
     id = "Umamusume",
     title = "Umamusume",

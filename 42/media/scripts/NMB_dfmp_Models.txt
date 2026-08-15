@@ -16,6 +16,57 @@ module dfmp
             rotate = 180.0 0.0 0.0,
         }
     }
+    model SharedCassetteWorldNMCassettedfmpTheMa78F39706
+    {
+        mesh = WorldItems/NM_Cassette,
+        texture = WorldItems/Cassette/World_NM_Cassette_dfmp_TheManWhoSoldTheWorld,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.10 0.0,
+            rotate = 180.0 0.0 0.0,
+        }
+    }
+
+    model SharedVinylWorldNMVinyldfmpTheManWh1B066109
+    {
+        mesh = WorldItems/NM_Vinyl,
+        texture = WorldItems/Vinyl/World_NM_Vinyl_dfmp_TheManWhoSoldTheWorld,
+        scale = 0.12,
+    }
+
+    model SharedCDWorldNMCD2705DB22
+    {
+        mesh = WorldItems/NM_CD,
+        texture = WorldItems/CD/World_NM_CD,
+        scale = 0.4,
+    }
+
+    model SharedCassetteCaseWorldNMCassetteCoverdfmp0B1633BC
+    {
+        mesh = WorldItems/NM_CassetteCase,
+        texture = WorldItems/Cassette/World_NM_CassetteCover_dfmp_TheManWhoSoldTheWorld,
+        scale = 0.0005,
+        attachment world
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+    }
+
+    model SharedJacketWorldNMCoverdfmpTheManWhAC9D06C0
+    {
+        mesh = WorldItems/NM_Jacket,
+        texture = WorldItems/Vinyl/World_NM_Cover_dfmp_TheManWhoSoldTheWorld,
+        scale = 0.1,
+    }
+
+    model SharedCDCoverWorldNMCDCoverdfmpTheManFD807C51
+    {
+        mesh = WorldItems/NM_CDCover,
+        texture = WorldItems/CD/World_NM_CDCover_dfmp_TheManWhoSoldTheWorld,
+        scale = 0.06,
+    }
 
     model AnimeMixVinyl
     {

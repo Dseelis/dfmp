@@ -1,4 +1,3 @@
-
 NMdfmpAlbum_SpongeBob = {
     id = "SpongeBob",
     title = "Sponge Bob",

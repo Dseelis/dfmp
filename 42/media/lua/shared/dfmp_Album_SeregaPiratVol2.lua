@@ -1,4 +1,3 @@
-
 NMdfmpAlbum_SeregaPiratVol2 = {
     id = "SeregaPiratVol2",
     title = "Serega Pirat Vol2",

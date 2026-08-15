@@ -1,4 +1,3 @@
-
 NMdfmpAlbum_SectorGaza = {
     id = "SectorGaza",
     title = "Sector Gaza",

@@ -1,5 +1,3 @@
-
-
 NMdfmpAlbum_AnimeMix = {
     id = "AnimeMix",
     title = "Anime Mix",
